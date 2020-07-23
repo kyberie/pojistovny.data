@@ -1,13 +1,13 @@
 # This is a basic workflow to help you get started with Actions
 
-name: pojistovny update file
+name: clone to beta
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
   push:
     branches: 
-      - master
+      - beta
     paths-ignore:
       - '.github/**'
 
@@ -19,13 +19,17 @@ jobs:
     runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
+    
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
-    - uses: ./.github/actions
-      
-    - run: git config --local user.email "milan.somsedik@gmail.com"
-    - run: git config --local user.name "Milan Somsedik"
-    - run: git add .
-    - run: git commit -m "commit"
-    - run: git push origin master
+     
+    - name: Pushes to another repository
+      uses: cpina/github-action-push-to-another-repository@master
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source-directory: 'main'
+        destination-github-username: 'kyberie'
+        destination-repository-name: 'pojistovny.data.beta'
+        user-email: milan.somsedik@gmail.com
