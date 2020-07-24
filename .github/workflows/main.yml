@@ -31,4 +31,14 @@ jobs:
     - run: git add .
     - run: git commit -m "commit"
     - run: git push origin beta
+    
+    - name: Pushes to another repository
+      uses: cpina/github-action-push-to-another-repository@master
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source-directory: 'main'
+        destination-github-username: 'kyberie'
+        destination-repository-name: 'pojistovny.data.beta'
+        user-email: milan.somsedik@gmail.com
 
