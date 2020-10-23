@@ -20,10 +20,13 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+    
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
+    #- run: npm install --save https://github.com/archiverjs/node-archiver
     - uses: ./.github/actions
-      
+    
+
     - run: git config --local user.email "milan.somsedik@gmail.com"
     - run: git config --local user.name "Milan Somsedik"
     - run: git add .
@@ -39,3 +42,4 @@ jobs:
         destination-github-username: 'kyberie'
         destination-repository-name: 'pojistovny.data.beta'
         user-email: milan.somsedik@gmail.com
+
