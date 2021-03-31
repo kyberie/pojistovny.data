@@ -1,4 +1,4 @@
-{
+{	"json_version":1,
     "logos_zip_file_all": "logos_all.zip",
     "logos_zip_file_automobil": "logos_automobil.zip",
     "insurers": [
@@ -422,7 +422,7 @@
             "broker2_phone": null,
             "address": "Hvězdova 1689/2a, 14062, Praha 4, CZ",
             "web": "https://www.axa-assistance.cz/",
-            "logo": "uniqa.png",
+            "logo": "axaassistance.png",
             "info_phone": null,
             "email": null,
             "damage_report_phone": null,
@@ -719,7 +719,7 @@
             "broker2_phone": null,
             "address": "Záhradnícka 21, 81107, Bratislava, SK",
             "web": "http://www.agrapoistovna.sk/site_sk/index.cfm",
-            "logo": "agra.png",
+            "logo": "agra_sk.png",
             "info_phone": null,
             "email": null,
             "damage_report_phone": null,
@@ -747,15 +747,15 @@
             "address": "Dostojevského rad 4, 81574, Bratislava, SK",
             "web": "https://www.allianzsp.sk/",
             "logo": "allianz_sk.png",
-            "info_phone": null,
+            "info_phone": "800122222",
             "email": null,
-            "damage_report_phone": null,
-            "damage_report_web": null,
+            "damage_report_phone": "250122222",
+            "damage_report_web": "https://www.allianzsp.sk/sk_SK/sukromne-osoby/ine-stranky/hlasenie-a-sledovanie-skod.html",
             "app_pojistovny": {
                 "logo_refresh": false
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": true
             }
         },
         {
@@ -801,15 +801,15 @@
             "address": "Kolárska 6, 81106, Bratislava, SK",
             "web": "https://www.axa.sk/",
             "logo": "uniqa.png",
-            "info_phone": null,
+            "info_phone": "229292929",
             "email": null,
-            "damage_report_phone": null,
-            "damage_report_web": null,
+            "damage_report_phone": "229292929",
+            "damage_report_web": "https://skody.axa.sk/hlasenie/",
             "app_pojistovny": {
                 "logo_refresh": false
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": true
             }
         },
         {
@@ -854,7 +854,7 @@
             "broker2_phone": null,
             "address": "Námestie SNP 15, 81103 Bratislava, SK",
             "web": "https://www.baslerpoistovna.sk/produkty.html",
-            "logo": "basler.jpg",
+            "logo": "basler.png",
             "info_phone": null,
             "email": null,
             "damage_report_phone": null,
@@ -881,7 +881,7 @@
             "broker2_phone": null,
             "address": "Námestie SNP 15, 81103 Bratislava, SK",
             "web": "https://www.baslerpoistovna.sk/produkty.html",
-            "logo": "basler.jpg",
+            "logo": "basler.png",
             "info_phone": null,
             "email": null,
             "damage_report_phone": null,
@@ -908,7 +908,7 @@
             "broker2_phone": null,
             "address": "Šoltésovej 14, 81108, Bratislava, SK",
             "web": "www.coface.sk",
-            "logo": "coface.jpg",
+            "logo": "coface.png",
             "info_phone": null,
             "email": null,
             "damage_report_phone": null,
@@ -962,16 +962,16 @@
             "broker2_phone": null,
             "address": "Žižkova 11, 81102, Bratislava, SK",
             "web": "https://www.csob.sk/",
-            "logo": "csob.png",
-            "info_phone": null,
+            "logo": "csob_sk.png",
+            "info_phone": "850111303",
             "email": null,
-            "damage_report_phone": null,
-            "damage_report_web": null,
+            "damage_report_phone": "850311312",
+            "damage_report_web": "https://www.csob.sk/online-nahlasenie-poistnej-udalosti",
             "app_pojistovny": {
                 "logo_refresh": false
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": true
             }
         },
         {
@@ -1044,15 +1044,15 @@
             "address": "Lamačská cesta 3/A, 84104, Bratislava, SK",
             "web": "https://www.generali.sk/",
             "logo": "generali.png",
-            "info_phone": null,
+            "info_phone": "238111117",
             "email": null,
-            "damage_report_phone": null,
-            "damage_report_web": null,
+            "damage_report_phone": "238111117",
+            "damage_report_web": "https://www.generali.sk/poistna-udalost/hlasenie-poistnych-udalosti/",
             "app_pojistovny": {
                 "logo_refresh": false
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": true
             }
         },
         {
@@ -1071,15 +1071,15 @@
             "address": "Lamačská cesta 3/A, 84104 Bratislava, SK",
             "web": "https://www.genertel.sk",
             "logo": "genertel.png",
-            "info_phone": null,
+            "info_phone": "850555555",
             "email": null,
-            "damage_report_phone": null,
-            "damage_report_web": null,
+            "damage_report_phone": "850555555",
+            "damage_report_web": "https://www.generali.sk/hlaseniepu/faces/pages/hlasenie_pu.xhtml?poistenie=pzpv&genertel=true",
             "app_pojistovny": {
                 "logo_refresh": false
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": true
             }
         },
         {
@@ -1098,15 +1098,15 @@
             "address": "Miletičova 21, 82108 Bratislava, SK",
             "web": "http://www.groupama.sk/",
             "logo": "groupama.png",
-            "info_phone": null,
+            "info_phone": "220854208",
             "email": null,
-            "damage_report_phone": null,
-            "damage_report_web": null,
+            "damage_report_phone": "220854208",
+            "damage_report_web": "https://www.groupama.sk/sk/sluzby/skodova-udalost/ONLINE-hlasenie-skodovych-udalosti-.html",
             "app_pojistovny": {
                 "logo_refresh": false
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": true
             }
         },
         {
@@ -1151,16 +1151,16 @@
             "broker2_phone": null,
             "address": "Štefánikova 17, 81105, Bratislava, SK",
             "web": "http://www.kpas.sk",
-            "logo": "komunalna.jpg",
-            "info_phone": null,
+            "logo": "komunalna.png",
+            "info_phone": "800112222",
             "email": null,
-            "damage_report_phone": null,
-            "damage_report_web": null,
+            "damage_report_phone": "850111566",
+            "damage_report_web": "https://webcalc.koop.sk/kpas/hlasenia",
             "app_pojistovny": {
                 "logo_refresh": false
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": true
             }
         },
         {
@@ -1178,16 +1178,16 @@
             "broker2_phone": null,
             "address": "Štefanovičova 4, 81623, Bratislava, SK",
             "web": "http://www.koop.sk/",
-            "logo": "kooperativa_sk.jpg",
-            "info_phone": null,
+            "logo": "kooperativa.png",
+            "info_phone": "800120000",
             "email": null,
-            "damage_report_phone": null,
-            "damage_report_web": null,
+            "damage_report_phone": "850111577",
+            "damage_report_web": "https://webcalc.koop.sk/koop/hlasenia",
             "app_pojistovny": {
                 "logo_refresh": false
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": true
             }
         },
         {
@@ -1260,15 +1260,15 @@
             "address": "Karadžičova 10, 81360, Bratislava, SK",
             "web": "https://www.union.sk/",
             "logo": "union.png",
-            "info_phone": null,
+            "info_phone": "850111211",
             "email": null,
-            "damage_report_phone": null,
-            "damage_report_web": null,
+            "damage_report_phone": "850111211",
+            "damage_report_web": "https://www.union.sk/app-nahlasenie-skodovej-udalosti",
             "app_pojistovny": {
                 "logo_refresh": false
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": true
             }
         },
         {
@@ -1287,15 +1287,15 @@
             "address": "Krasovského 15, 85101, Bratislava, SK",
             "web": "https://www.uniqa.sk/",
             "logo": "uniqa.png",
-            "info_phone": null,
+            "info_phone": "232600100",
             "email": null,
-            "damage_report_phone": null,
-            "damage_report_web": null,
+            "damage_report_phone": "232600100",
+            "damage_report_web": "https://skody.uniqa.sk/vozidla/",
             "app_pojistovny": {
                 "logo_refresh": false
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": true
             }
         },
         {
@@ -1313,16 +1313,16 @@
             "broker2_phone": null,
             "address": "Karadžičova 17, 82522, Bratislava, SK",
             "web": "https://www.wuestenrot.sk/",
-            "logo": "wustenrot_sk.jpg",
-            "info_phone": null,
+            "logo": "wustenrot_sk.png",
+            "info_phone": "233068808",
             "email": null,
-            "damage_report_phone": null,
-            "damage_report_web": null,
+            "damage_report_phone": "233068805",
+            "damage_report_web": "https://www.wuestenrot.sk/nahlasenie-poistnej-udalosti",
             "app_pojistovny": {
                 "logo_refresh": false
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": true
             }
         },
         {
@@ -1502,7 +1502,7 @@
             "broker2_phone": null,
             "address": "Hvězdova 1689/2a, 14062, Praha, CZ",
             "web": "https://www.axa.sk/",
-            "logo": "uniqa.png",
+            "logo": "axaassistance.png",
             "info_phone": null,
             "email": null,
             "damage_report_phone": null,
@@ -1596,4 +1596,4 @@
             }
         }
     ]
- }
+ } 
