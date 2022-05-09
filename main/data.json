@@ -1594,32 +1594,6 @@
             "app_automobil": {
                 "use_in_app": true
             }
-        },  {
-            "id": 999888,
-            "yeti_id": 466529,
-            "country_abbr": "RO",
-            "name": "TEST pro betu pak smazat - EUROINS România",
-            "client1_phone": "734510530",
-            "client2_phone": null,
-            "assist1": "Auto/Dům/Byt asistence",
-            "assist1_phone": "246097285",
-            "assist2": "Auto/Dům/Byt/Úraz oznámení škod",
-            "assist2_phone": "295562333",
-            "broker1_phone": null,
-            "broker2_phone": null,
-            "address": "Líbalova 2348/1, 14900, Praha 4, CZ",
-            "web": "https://www.mypillow.cz/",
-            "logo": "pillow.png",
-            "info_phone": "734510530",
-            "email": "skoda@mypillow.cz",
-            "damage_report_phone": "295562333",
-            "damage_report_web": "https://www.mypillow.cz/kontakty#page04_part2_id",
-            "app_pojistovny": {
-                "logo_refresh": true
-            },
-            "app_automobil": {
-                "use_in_app": true
-            }
         }
     ]
  } 
