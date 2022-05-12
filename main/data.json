@@ -1594,6 +1594,330 @@
             "app_automobil": {
                 "use_in_app": true
             }
+        },
+        {
+            "id": 61,
+            "yeti_id": 655269,
+            "country_abbr": "RO",
+            "name": "ABC Asigurari Reasigurari SA",
+            "client1_phone": "0212305151",
+            "client2_phone": null,
+            "assist1": null,
+            "assist1_phone": "0212305151",
+            "assist2": null,
+            "assist2_phone": null,
+            "broker1_phone": null,
+            "broker2_phone": null,
+            "address": "Str. Scoala Floreasca, nr. 24, sector 1, Bucuresti, RO",
+            "web": "https://www.abcasigurari.ro",
+            "logo": "abcasigurari.png",
+            "info_phone": "0212305151",
+            "email": "avizaridaune@abcasigurari.ro",
+            "damage_report_phone": "0212305151",
+            "damage_report_web": "https://www.abcasigurari.ro/abc1/index.php?option=com_content&view=article&id=84%3Aauto&catid=23%3Adaune&Itemid=92",
+            "app_pojistovny": {
+                "logo_refresh": false
+            },
+            "app_automobil": {
+                "use_in_app": true
+            }
+        },
+        {
+            "id": 62,
+            "yeti_id": 470523,
+            "country_abbr": "RO",
+            "name": "Allianz-Tiriac Asigurari S.A.",
+            "client1_phone": "0212019180",
+            "client2_phone": null,
+            "assist1": null,
+            "assist1_phone": "0212019100",
+            "assist2": null,
+            "assist2_phone": null,
+            "broker1_phone": null,
+            "broker2_phone": null,
+            "address": "Str. Caderea Bastiliei, nr. 80-84, sector 1, Bucuresti, RO",
+            "web": "https://www.allianztiriac.ro",
+            "logo": "allianztiriac.png",
+            "info_phone": "0212019180",
+            "email": null,
+            "damage_report_phone": "0212019180",
+            "damage_report_web": "https://www.allianztiriac.ro/ro_RO/persoane-fizice/proces-de-dauna/dauna-asigurare-auto.html",
+            "app_pojistovny": {
+                "logo_refresh": false
+            },
+            "app_automobil": {
+                "use_in_app": true
+            }
+        },
+		{
+            "id": 63,
+            "yeti_id": 496792,
+            "country_abbr": "RO",
+            "name": "Allianz-Tiriac Unit Asigurari S.A.",
+            "client1_phone": "0212000000",
+            "client2_phone": null,
+            "assist1": null,
+            "assist1_phone": "0212000000",
+            "assist2": null,
+            "assist2_phone": null,
+            "broker1_phone": null,
+            "broker2_phone": null,
+            "address": "Soseaua Pipera, nr. 42, et. 16, et. 1- cam. 1, sector 2, Bucuresti, RO",
+            "web": "https://www.allianztiriacunit.ro",
+            "logo": "allianztiriacunit.png",
+            "info_phone": "0212000000",
+            "email": "avizari@allianztiriacunit.ro",
+            "damage_report_phone": "0212000000",
+            "damage_report_web": "https://allianztiriacunit.ro/daune/daune-auto",
+            "app_pojistovny": {
+                "logo_refresh": false
+            },
+            "app_automobil": {
+                "use_in_app": true
+            }
+        },
+        {
+            "id": 64,
+            "yeti_id": 500890,
+            "country_abbr": "RO",
+            "name": "Asirom Vienna Insurance Group S.A.",
+            "client1_phone": "0219146",
+            "client2_phone": null,
+            "assist1": null,
+            "assist1_phone": "0219146",
+            "assist2": null,
+            "assist2_phone": null,
+            "broker1_phone": null,
+            "broker2_phone": null,
+            "address": "B-dul Carol I, nr. 31-33, sector 2, Bucuresti, RO",
+            "web": "https://www.asirom.ro",
+            "logo": "asirom.png",
+            "info_phone": "0219146",
+            "email": "info@asirom.ro",
+            "damage_report_phone": "0219146",
+            "damage_report_web": "https://asirom.ro/daune-auto",
+            "app_pojistovny": {
+                "logo_refresh": false
+            },
+            "app_automobil": {
+                "use_in_app": true
+            }
+        },
+        {
+            "id": 65,
+            "yeti_id": 686213,
+            "country_abbr": "RO",
+            "name": "Asito Kapital S.A.",
+            "client1_phone": "0212019038",
+            "client2_phone": null,
+            "assist1": null,
+            "assist1_phone": "0212019038",
+            "assist2": null,
+            "assist2_phone": null,
+            "broker1_phone": null,
+            "broker2_phone": null,
+            "address": "Str. Elena Vacarescu,nr. 100A, sector 1, Bucuresti, RO",
+            "web": "https://www.asitokapital.ro",
+            "logo": "asito.png",
+            "info_phone": "0212019038",
+            "email": "daune@fortifyclaims.com",
+            "damage_report_phone": "0212019038",
+            "damage_report_web": "https://asitokapital.ro/procedura-dauna-casco",
+            "app_pojistovny": {
+                "logo_refresh": false
+            },
+            "app_automobil": {
+                "use_in_app": true
+            }
+        },
+        {
+            "id": 66,
+            "yeti_id": 510751,
+            "country_abbr": "RO",
+            "name": "Ergo Asigurari S.A.",
+            "client1_phone": "0216595959",
+            "client2_phone": null,
+            "assist1": null,
+            "assist1_phone": "0216595959",
+            "assist2": null,
+            "assist2_phone": null,
+            "broker1_phone": null,
+            "broker2_phone": null,
+            "address": "Soseaua Bucuresti-Ploiesti, nr. 1A, et. 4, unitatea 4A, sector 1, Bucuresti, RO",
+            "web": "https://www.ergo.ro",
+            "logo": "ergoro.png",
+            "info_phone": "0216595959",
+            "email": "avizaridaune@ergo.ro",
+            "damage_report_phone": "0216595959",
+            "damage_report_web": null,
+            "app_pojistovny": {
+                "logo_refresh": false
+            },
+            "app_automobil": {
+                "use_in_app": true
+            }
+        },
+        {
+            "id": 67,
+            "yeti_id": 466529,
+            "country_abbr": "RO",
+            "name": "Euroins Romania Asigurare-Reasigurare SA",
+            "client1_phone": "0319483",
+            "client2_phone": null,
+            "assist1": null,
+            "assist1_phone": "0319483",
+            "assist2": null,
+            "assist2_phone": null,
+            "broker1_phone": null,
+            "broker2_phone": null,
+            "address": "Str. Jiului, nr. 8, J8 Office Park, Cladirea A, et. 2, sector 1, Bucuresti, RO",
+            "web": "https://www.euroins.ro",
+            "logo": "euroins.png",
+            "info_phone": "0319483",
+            "email": null,
+            "damage_report_phone": "0319483",
+            "damage_report_web": "https://programari.euroins.ro",
+            "app_pojistovny": {
+                "logo_refresh": false
+            },
+            "app_automobil": {
+                "use_in_app": true
+            }
+        },
+        {
+            "id": 68,
+            "yeti_id": 462565,
+            "country_abbr": "RO",
+            "name": "Generali Romania Asigurare-Reasigurare SA",
+            "client1_phone": "0372010202",
+            "client2_phone": null,
+            "assist1": null,
+            "assist1_phone": "0372010202",
+            "assist2": null,
+            "assist2_phone": null,
+            "broker1_phone": null,
+            "broker2_phone": null,
+            "address": "Piata Charles de Gaulle, nr. 15, et. 6 si 7, sector 1, Bucuresti, RO",
+            "web": "https://www.generali.ro",
+            "logo": "generali.png",
+            "info_phone": "0372010202",
+            "email": "dauneauto.ro@generali.com",
+            "damage_report_phone": "0372010202",
+            "damage_report_web": "https://www.generali.ro/daune2/auto",
+            "app_pojistovny": {
+                "logo_refresh": false
+            },
+            "app_automobil": {
+                "use_in_app": true
+            }
+        },
+        {
+            "id": 69,
+            "yeti_id": 568050,
+            "country_abbr": "RO",
+            "name": "Grawe Romania Asigurare SA",
+            "client1_phone": "0213260101",
+            "client2_phone": null,
+            "assist1": null,
+            "assist1_phone": "0213260101",
+            "assist2": null,
+            "assist2_phone": null,
+            "broker1_phone": null,
+            "broker2_phone": null,
+            "address": "Str. Vulturilor, nr. 98A, sector 3, Bucuresti, RO",
+            "web": "https://www.grawe.ro",
+            "logo": "grawe.png",
+            "info_phone": "0213260101",
+            "email": "daune@grawe.ro",
+            "damage_report_phone": "0213260101",
+            "damage_report_web": "https://www.grawe.ro/formular-anunt-dauna",
+            "app_pojistovny": {
+                "logo_refresh": false
+            },
+            "app_automobil": {
+                "use_in_app": true
+            }
+        },
+        {
+            "id": 70,
+            "yeti_id": 484201,
+            "country_abbr": "RO",
+            "name": "Groupama Asigurari S.A.",
+            "client1_phone": "0374110110",
+            "client2_phone": null,
+            "assist1": null,
+            "assist1_phone": "0374110110",
+            "assist2": null,
+            "assist2_phone": null,
+            "broker1_phone": null,
+            "broker2_phone": null,
+            "address": "Str. Mihai Eminescu, nr. 45, sector 1, Bucuresti, RO",
+            "web": "https://www.groupama.ro",
+            "logo": "groupamaro.png",
+            "info_phone": "0374110110",
+            "email": null,
+            "damage_report_phone": "0374110110",
+            "damage_report_web": "https://www.groupama.ro/daune/daune-auto",
+            "app_pojistovny": {
+                "logo_refresh": false
+            },
+            "app_automobil": {
+                "use_in_app": true
+            }
+        },
+        {
+            "id": 71,
+            "yeti_id": 506965,
+            "country_abbr": "RO",
+            "name": "S.C. Omniasig Vienna Insurance Group S.A.",
+            "client1_phone": "0219669",
+            "client2_phone": null,
+            "assist1": null,
+            "assist1_phone": "0212240101",
+            "assist2": null,
+            "assist2_phone": null,
+            "broker1_phone": null,
+            "broker2_phone": null,
+            "address": "Aleea Alexandru, nr. 51, sector 1, Bucuresti, RO",
+            "web": "https://www.omniasig.ro",
+            "logo": "omniasig.png",
+            "info_phone": "0219669",
+            "email": "avizari@omniasig.ro",
+            "damage_report_phone": "0219669",
+            "damage_report_web": "https://www.omniasig.ro/ro/daune/auto/casco",
+            "app_pojistovny": {
+                "logo_refresh": false
+            },
+            "app_automobil": {
+                "use_in_app": true
+            }
+        },
+        {
+            "id": 72,
+            "yeti_id": 483894,
+            "country_abbr": "RO",
+            "name": "Uniqa Asigurari S.A.",
+            "client1_phone": "0374400400",
+            "client2_phone": null,
+            "assist1": null,
+            "assist1_phone": "0374400400",
+            "assist2": null,
+            "assist2_phone": null,
+            "broker1_phone": null,
+            "broker2_phone": null,
+            "address": "Str. Nicolae Caramfil, nr. 25, Parter, et. 2-4, sector 1, Bucuresti, RO",
+            "web": "https://www.uniqa.ro",
+            "logo": "uniqaro.png",
+            "info_phone": "0374400400",
+            "email": "avizaridaune@uniqa.ro",
+            "damage_report_phone": "0374400400",
+            "damage_report_web": "https://daunerapide.uniqa.ro",
+            "app_pojistovny": {
+                "logo_refresh": false
+            },
+            "app_automobil": {
+                "use_in_app": true
+            }
         }
     ]
  } 
