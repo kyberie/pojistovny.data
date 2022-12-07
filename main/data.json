@@ -23,10 +23,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -50,10 +53,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -77,10 +83,13 @@
             "damage_report_phone": "241170000",
             "damage_report_web": "https://www.allianz.cz/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -104,10 +113,13 @@
             "damage_report_phone": "292292292",
             "damage_report_web": "https://www.axa.cz/skody-a-pojistne-udalosti/oznameni-skody/pojisteni-vozidel/obsah/skodni-udalost/",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": "(dříve AXA pojišťovna)"
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -131,10 +143,13 @@
             "damage_report_phone": "800700025",
             "damage_report_web": "https://www.colonnade.cz/pojistna-udalost/automobily/",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -158,10 +173,13 @@
             "damage_report_phone": "957444555",
             "damage_report_web": "https://insure.cpp.cz/hlasenky-web/faces/vstup_info.xhtml",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -185,10 +203,13 @@
             "damage_report_phone": "241114114",
             "damage_report_web": "https://www.generaliceska.cz/nahlasit-skodu#auto",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -212,10 +233,13 @@
             "damage_report_phone": "466100777",
             "damage_report_web": "https://www.csobpoj.cz/oznameni-pojistne-udalosti-pojisteni-vozidel",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -239,10 +263,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -266,10 +293,13 @@
             "damage_report_phone": "270270777",
             "damage_report_web": "https://www.direct.cz/online/hlaseni-skody/autopojisteni",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -293,10 +323,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -320,10 +353,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -347,10 +383,13 @@
             "damage_report_phone": "272101062",
             "damage_report_web": "https://www.hvp.cz/pojistna-udalost/pu-na-motorovem-vozidle/",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -374,10 +413,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -401,10 +443,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -428,10 +473,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -455,10 +503,13 @@
             "damage_report_phone": "957105105",
             "damage_report_web": "https://insure.koop.cz/hlasenky-web/faces/vstup_info.xhtml",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -482,10 +533,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -509,10 +563,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -536,10 +593,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -563,10 +623,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -590,10 +653,13 @@
             "damage_report_phone": "226294294",
             "damage_report_web": "https://online.pvzp.cz/clfe/claim/motor/#/registration",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -617,10 +683,13 @@
             "damage_report_phone": "488125125",
             "damage_report_web": "https://skody.uniqa.cz/vozidla/",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -644,10 +713,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -671,10 +743,13 @@
             "damage_report_phone": "250122222",
             "damage_report_web": "https://www.allianzsp.sk/sk_SK/sukromne-osoby/ine-stranky/hlasenie-a-sledovanie-skod.html",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -698,10 +773,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -725,10 +803,13 @@
             "damage_report_phone": "229292929",
             "damage_report_web": "https://skody.axa.sk/hlasenie/",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": "(predtým AXA pojišťovna)"
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -752,10 +833,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": "(predtým AXA životní pojišťovna)"
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -779,10 +863,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -806,10 +893,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -833,10 +923,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -860,10 +953,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -887,10 +983,13 @@
             "damage_report_phone": "850311312",
             "damage_report_web": "https://www.csob.sk/online-nahlasenie-poistnej-udalosti",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -914,10 +1013,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -941,10 +1043,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -968,10 +1073,13 @@
             "damage_report_phone": "238111117",
             "damage_report_web": "https://www.generali.sk/poistna-udalost/hlasenie-poistnych-udalosti/",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -995,10 +1103,13 @@
             "damage_report_phone": "850555555",
             "damage_report_web": "https://www.generali.sk/hlaseniepu/faces/pages/hlasenie_pu.xhtml?poistenie=pzpv&genertel=true",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1022,10 +1133,13 @@
             "damage_report_phone": "220854208",
             "damage_report_web": "https://www.groupama.sk/sk/sluzby/skodova-udalost/ONLINE-hlasenie-skodovych-udalosti-.html",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1049,10 +1163,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1076,10 +1193,13 @@
             "damage_report_phone": "850111566",
             "damage_report_web": "https://webcalc.koop.sk/kpas/hlasenia",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1103,10 +1223,13 @@
             "damage_report_phone": "850111577",
             "damage_report_web": "https://webcalc.koop.sk/koop/hlasenia",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1130,10 +1253,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1157,10 +1283,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1184,10 +1313,13 @@
             "damage_report_phone": "850111211",
             "damage_report_web": "https://www.union.sk/app-nahlasenie-skodovej-udalosti",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1211,10 +1343,13 @@
             "damage_report_phone": "232600100",
             "damage_report_web": "https://skody.uniqa.sk/vozidla/",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": "(predtým UNIQA poisťovňa)"
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1238,10 +1373,13 @@
             "damage_report_phone": "233068805",
             "damage_report_web": "https://www.wuestenrot.sk/nahlasenie-poistnej-udalosti",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1265,10 +1403,13 @@
             "damage_report_phone": "221586866",
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1292,10 +1433,13 @@
             "damage_report_phone": "255790111",
             "damage_report_web": "https://www.slavia-pojistovna.cz/nahlaseni-skody/",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1319,10 +1463,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1346,10 +1493,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1373,10 +1523,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1400,10 +1553,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1427,10 +1583,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1454,10 +1613,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1481,10 +1643,13 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1508,10 +1673,13 @@
             "damage_report_phone": "295562333",
             "damage_report_web": "https://www.mypillow.cz/kontakty#page04_part2_id",
             "app_pojistovny": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1535,10 +1703,13 @@
             "damage_report_phone": "0212305151",
             "damage_report_web": "https://www.abcasigurari.ro/abc1/index.php?option=com_content&view=article&id=84%3Aauto&catid=23%3Adaune&Itemid=92",
             "app_pojistovny": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1562,10 +1733,13 @@
             "damage_report_phone": "0212019180",
             "damage_report_web": "https://www.allianztiriac.ro/ro_RO/persoane-fizice/proces-de-dauna/dauna-asigurare-auto.html",
             "app_pojistovny": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
 		{
@@ -1589,10 +1763,13 @@
             "damage_report_phone": "0212000000",
             "damage_report_web": "https://allianztiriacunit.ro/daune/daune-auto",
             "app_pojistovny": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1616,10 +1793,13 @@
             "damage_report_phone": "0219146",
             "damage_report_web": "https://asirom.ro/daune-auto",
             "app_pojistovny": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1643,10 +1823,13 @@
             "damage_report_phone": "0212019038",
             "damage_report_web": "https://asitokapital.ro/procedura-dauna-casco",
             "app_pojistovny": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1670,10 +1853,13 @@
             "damage_report_phone": "0216595959",
             "damage_report_web": null,
             "app_pojistovny": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1697,10 +1883,13 @@
             "damage_report_phone": "0319483",
             "damage_report_web": "https://programari.euroins.ro",
             "app_pojistovny": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1724,10 +1913,13 @@
             "damage_report_phone": "0372010202",
             "damage_report_web": "https://www.generali.ro/daune2/auto",
             "app_pojistovny": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1751,10 +1943,13 @@
             "damage_report_phone": "0213260101",
             "damage_report_web": "https://www.grawe.ro/formular-anunt-dauna",
             "app_pojistovny": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1778,10 +1973,13 @@
             "damage_report_phone": "0374110110",
             "damage_report_web": "https://www.groupama.ro/daune/daune-auto",
             "app_pojistovny": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1805,10 +2003,13 @@
             "damage_report_phone": "0219669",
             "damage_report_web": "https://www.omniasig.ro/ro/daune/auto/casco",
             "app_pojistovny": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1832,10 +2033,13 @@
             "damage_report_phone": "0374400400",
             "damage_report_web": "https://daunerapide.uniqa.ro",
             "app_pojistovny": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false,
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         }
     ]
