@@ -1141,8 +1141,8 @@
             "app_pojistovny": {
                 "use_in_app": true,
 				"invisible": false,
-				"title": "Generali Poisťovňa, odštepný závod Genertel",
-				"description": null
+				"title": "Generali Poisťovňa",
+				"description": "odštepný závod Genertel"
             },
             "app_automobil": {
                 "use_in_app": true,
