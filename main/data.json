@@ -391,9 +391,9 @@
             "web": "http://www.hasicskapojistovna.cz/",
             "logo": "hasicska_vzajemna.png",
             "info_phone": "222119119",
-            "email": "hvp@axa-assistance.cz",
-            "damage_report_phone": "272101062",
-            "damage_report_web": "https://www.hvp.cz/pojistna-udalost/pu-na-motorovem-vozidle/",
+            "email": "hvp@contin.cz",
+            "damage_report_phone": "539011854",
+            "damage_report_web": "https://www.contin.cz/hlaseni-skod",
             "app_pojistovny": {
                 "use_in_app": true,
 				"invisible": false,
