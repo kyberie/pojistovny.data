@@ -92,7 +92,10 @@
             },
             "app_automobil": {
                 "use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"assist_line_homeland": "1224",
+				"assist_line_abroad": "+420241170000",
+				"assist_service": "ALLIANZ_ASSIST"
             }
         },
         {
@@ -123,7 +126,10 @@
             },
             "app_automobil": {
                 "use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"assist_line_homeland": "1224",
+				"assist_line_abroad": "+420272101020",
+				"assist_service": "AXA_ASSIST"
             }
         },
         {
@@ -185,7 +191,10 @@
             },
             "app_automobil": {
                 "use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"assist_line_homeland": "1220",
+				"assist_line_abroad": "+420266799779",
+				"assist_service": "GLOBAL_ASSIST"
             }
         },
         {
@@ -216,7 +225,10 @@
             },
             "app_automobil": {
                 "use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"assist_line_homeland": "1224",
+				"assist_line_abroad": "+420241114114",
+				"assist_service": "EUROP_ASSIST"
             }
         },
         {
@@ -247,7 +259,10 @@
             },
             "app_automobil": {
                 "use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"assist_line_homeland": "1224",
+				"assist_line_abroad": "+420222803442",
+				"assist_service": "GLOBAL_ASSIST"
             }
         },
         {
@@ -309,7 +324,10 @@
             },
             "app_automobil": {
                 "use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"assist_line_homeland": "1224",
+				"assist_line_abroad": "+420291291291",
+				"assist_service": "EUROP_ASSIST"
             }
         },
         {
@@ -402,7 +420,10 @@
             },
             "app_automobil": {
                 "use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"assist_line_homeland": "1224",
+				"assist_line_abroad": "+420272101062",
+				"assist_service": "AXA_ASSIST"
             }
         },
         {
@@ -526,7 +547,10 @@
             },
             "app_automobil": {
                 "use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"assist_line_homeland": "1220",
+				"assist_line_abroad": "+420266799779",
+				"assist_service": "GLOBAL_ASSIST"
             }
         },
         {
@@ -681,7 +705,10 @@
             },
             "app_automobil": {
                 "use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"assist_line_homeland": "+420226294294",
+				"assist_line_abroad": "+420226294294",
+				"assist_service": "GLOBAL_ASSIST"
             }
         },
         {
@@ -712,7 +739,10 @@
             },
             "app_automobil": {
                 "use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"assist_line_homeland": "1224",
+				"assist_line_abroad": "+420272101020",
+				"assist_service": "AXA_ASSIST"
             }
         },
         {
@@ -1456,7 +1486,10 @@
             },
             "app_automobil": {
                 "use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"assist_line_homeland": "+420221586658",
+				"assist_line_abroad": "+420221586658",
+				"assist_service": "EUROP_ASSIST"
             }
         },
         {
@@ -1487,7 +1520,10 @@
             },
             "app_automobil": {
                 "use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"assist_line_homeland": "1220",
+				"assist_line_abroad": "+420255790260",
+				"assist_service": "GLOBAL_ASSIST"
             }
         },
         {
@@ -1735,7 +1771,10 @@
             },
             "app_automobil": {
                 "use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"assist_line_homeland": "+420251032862",
+				"assist_line_abroad": "+420251032862",
+				"assist_service": "GLOBAL_ASSIST"
             }
         },
         {
