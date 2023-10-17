@@ -23,37 +23,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Chubb",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
-            }
-        },
-        {
-            "id": 2,
-            "yeti_id": 43002,
-            "country_abbr": "CZ",
-            "name": "AEGON Pojišťovna",
-            "client1_phone": "244090800",
-            "client2_phone": null,
-            "assist1": null,
-            "assist1_phone": null,
-            "assist2": null,
-            "assist2_phone": null,
-            "broker1_phone": "244090406",
-            "broker2_phone": "730542241",
-            "address": "Na Pankráci 26/322, 14000, Praha 4, CZ",
-            "web": "https://www.aegon.cz",
-            "logo": "aegon.png",
-            "info_phone": null,
-            "email": null,
-            "damage_report_phone": null,
-            "damage_report_web": null,
-            "app_pojistovny": {
-                "logo_refresh": false
-            },
-            "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -77,10 +54,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Agra pojišťovna",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -104,10 +85,17 @@
             "damage_report_phone": "241170000",
             "damage_report_web": "https://www.allianz.cz/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Allianz pojišťovna",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"assist_line_homeland": "1224",
+				"assist_line_abroad": "+420241170000",
+				"assist_service": "ALLIANZ_ASSIST"
             }
         },
         {
@@ -131,10 +119,17 @@
             "damage_report_phone": "292292292",
             "damage_report_web": "https://www.axa.cz/skody-a-pojistne-udalosti/oznameni-skody/pojisteni-vozidel/obsah/skodni-udalost/",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "UNIQA pojišťovna",
+				"description": "dříve AXA pojišťovna"
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"assist_line_homeland": "1224",
+				"assist_line_abroad": "+420272101020",
+				"assist_service": "AXA_ASSIST"
             }
         },
         {
@@ -158,10 +153,14 @@
             "damage_report_phone": "800700025",
             "damage_report_web": "https://www.colonnade.cz/pojistna-udalost/automobily/",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Colonnade Insurance",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -185,10 +184,17 @@
             "damage_report_phone": "957444555",
             "damage_report_web": "https://insure.cpp.cz/hlasenky-web/faces/vstup_info.xhtml",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Česká podnikatelská pojišťovna",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"assist_line_homeland": "1220",
+				"assist_line_abroad": "+420266799779",
+				"assist_service": "GLOBAL_ASSIST"
             }
         },
         {
@@ -212,10 +218,17 @@
             "damage_report_phone": "241114114",
             "damage_report_web": "https://www.generaliceska.cz/nahlasit-skodu#auto",
             "app_pojistovny": {
-                "logo_refresh": true
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Generali Česká pojišťovna",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"assist_line_homeland": "1224",
+				"assist_line_abroad": "+420241114114",
+				"assist_service": "EUROP_ASSIST"
             }
         },
         {
@@ -239,10 +252,17 @@
             "damage_report_phone": "466100777",
             "damage_report_web": "https://www.csobpoj.cz/oznameni-pojistne-udalosti-pojisteni-vozidel",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "ČSOB Pojišťovna",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"assist_line_homeland": "1224",
+				"assist_line_abroad": "+420222803442",
+				"assist_service": "GLOBAL_ASSIST"
             }
         },
         {
@@ -266,10 +286,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "D.A.S. Rechtsschutz",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -293,17 +317,24 @@
             "damage_report_phone": "270270777",
             "damage_report_web": "https://www.direct.cz/online/hlaseni-skody/autopojisteni",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "DIRECT pojišťovna",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"assist_line_homeland": "1224",
+				"assist_line_abroad": "+420291291291",
+				"assist_service": "EUROP_ASSIST"
             }
         },
         {
             "id": 12,
             "yeti_id": 42948,
             "country_abbr": "CZ",
-            "name": "ERGO pojišťovna",
+            "name": "SV pojišťovna",
             "client1_phone": "221585111",
             "client2_phone": null,
             "assist1": null,
@@ -313,17 +344,21 @@
             "broker1_phone": null,
             "broker2_phone": null,
             "address": "BB Centrum budova BETA, Vyskočilova 1481/4, 14000, Praha, CZ",
-            "web": "https://ergo.cz/",
-            "logo": "ergo.png",
+            "web": "https://www.svpojistovna.cz/",
+            "logo": "svp.png",
             "info_phone": null,
             "email": null,
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "SV pojišťovna",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -347,10 +382,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "ERV Evropská pojišťovna",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -374,10 +413,17 @@
             "damage_report_phone": "539011854",
             "damage_report_web": "https://www.contin.cz/hlaseni-skod",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Hasičská vzájemná pojišťovna",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"assist_line_homeland": "1224",
+				"assist_line_abroad": "+420272101062",
+				"assist_service": "AXA_ASSIST"
             }
         },
         {
@@ -401,10 +447,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "HDI Versicherung",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -428,10 +478,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "AXA ASSISTANCE",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -455,10 +509,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Komerční pojišťovna",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -482,10 +540,17 @@
             "damage_report_phone": "957105105",
             "damage_report_web": "https://insure.koop.cz/hlasenky-web/faces/vstup_info.xhtml",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Kooperativa pojišťovna",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"assist_line_homeland": "1220",
+				"assist_line_abroad": "+420266799779",
+				"assist_service": "GLOBAL_ASSIST"
             }
         },
         {
@@ -509,10 +574,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Maxima pojišťovna",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -536,10 +605,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "MetLife",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -563,10 +636,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "NN Životní pojišťovna",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -590,10 +667,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "FLEXI",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -617,10 +698,17 @@
             "damage_report_phone": "226294294",
             "damage_report_web": "https://online.pvzp.cz/clfe/claim/motor/#/registration",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Pojišťovna VZP",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"assist_line_homeland": "+420226294294",
+				"assist_line_abroad": "+420226294294",
+				"assist_service": "GLOBAL_ASSIST"
             }
         },
         {
@@ -644,64 +732,17 @@
             "damage_report_phone": "488125125",
             "damage_report_web": "https://skody.uniqa.cz/vozidla/",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "UNIQA pojišťovna",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
-            }
-        },
-        {
-            "id": 26,
-            "yeti_id": 51552,
-            "country_abbr": "SK",
-            "name": "AEGON",
-            "client1_phone": "850123466",
-            "client2_phone": "850123466",
-            "assist1": null,
-            "assist1_phone": "220512776",
-            "assist2": null,
-            "assist2_phone": null,
-            "broker1_phone": null,
-            "broker2_phone": null,
-            "address": "Slávičie údolie 106, 81102, Bratislava, SK",
-            "web": "https://www.aegon.sk/Home/",
-            "logo": "aegon.png",
-            "info_phone": null,
-            "email": null,
-            "damage_report_phone": null,
-            "damage_report_web": null,
-            "app_pojistovny": {
-                "logo_refresh": false
-            },
-            "app_automobil": {
-                "use_in_app": false
-            }
-        },
-        {
-            "id": 27,
-            "yeti_id": 58327,
-            "country_abbr": "SK",
-            "name": "AEGON Životná poisťovňa",
-            "client1_phone": "915788838",
-            "client2_phone": "850123466",
-            "assist1": null,
-            "assist1_phone": "220512776",
-            "assist2": null,
-            "assist2_phone": null,
-            "broker1_phone": null,
-            "broker2_phone": null,
-            "address": "Slávičie údolie 106, 81102, Bratislava, SK",
-            "web": "https://www.aegon.sk/Home/",
-            "logo": "aegon.png",
-            "info_phone": null,
-            "email": null,
-            "damage_report_phone": null,
-            "damage_report_web": null,
-            "app_pojistovny": {
-                "logo_refresh": false
-            },
-            "app_automobil": {
-                "use_in_app": false
+                "use_in_app": true,
+				"invisible": false,
+				"assist_line_homeland": "1224",
+				"assist_line_abroad": "+420272101020",
+				"assist_service": "AXA_ASSIST"
             }
         },
         {
@@ -719,16 +760,20 @@
             "broker2_phone": null,
             "address": "Záhradnícka 21, 81107, Bratislava, SK",
             "web": "http://www.agrapoistovna.sk/site_sk/index.cfm",
-            "logo": "agra_sk.png",
+            "logo": "agra.png",
             "info_phone": null,
             "email": null,
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Agra poistovňa",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -746,16 +791,20 @@
             "broker2_phone": null,
             "address": "Dostojevského rad 4, 81574, Bratislava, SK",
             "web": "https://www.allianzsp.sk/",
-            "logo": "allianz.png",
+            "logo": "allianz_sk.png",
             "info_phone": "800122222",
             "email": null,
             "damage_report_phone": "250122222",
             "damage_report_web": "https://www.allianzsp.sk/sk_SK/sukromne-osoby/ine-stranky/hlasenie-a-sledovanie-skod.html",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Allianz - Slovenská poisťovňa",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -779,10 +828,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Atradius Credit Insurance",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -806,10 +859,14 @@
             "damage_report_phone": "229292929",
             "damage_report_web": "https://skody.axa.sk/hlasenie/",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "UNIQA pojišťovna",
+				"description": "predtým AXA pojišťovna"
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -833,10 +890,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "UNIQA pojišťovna",
+				"description": "predtým AXA životní pojišťovna"
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -860,10 +921,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Basler Sachversicherungs",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -887,10 +952,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Basler Lebensversicherungs",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -914,10 +983,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Coface",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -941,10 +1014,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Colonnade Insurance",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -968,10 +1045,14 @@
             "damage_report_phone": "850311312",
             "damage_report_web": "https://www.csob.sk/online-nahlasenie-poistnej-udalosti",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "ČSOB Poisťovňa",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -995,10 +1076,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "D.A.S. poistenie právnej ochrany",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1022,10 +1107,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Euler Hermes",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1049,10 +1138,14 @@
             "damage_report_phone": "238111117",
             "damage_report_web": "https://www.generali.sk/poistna-udalost/hlasenie-poistnych-udalosti/",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Generali Poisťovňa",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1068,7 +1161,7 @@
             "assist2_phone": null,
             "broker1_phone": null,
             "broker2_phone": null,
-            "address": "Lamačská cesta 3/A, 84104 Bratislava, SK",
+            "address": "Lamačská cesta 3/A, 84104, Bratislava, SK",
             "web": "https://www.genertel.sk",
             "logo": "genertel.png",
             "info_phone": "850555555",
@@ -1076,10 +1169,14 @@
             "damage_report_phone": "850555555",
             "damage_report_web": "https://www.generali.sk/hlaseniepu/faces/pages/hlasenie_pu.xhtml?poistenie=pzpv&genertel=true",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Generali Poisťovňa",
+				"description": "odštepný závod Genertel"
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1095,7 +1192,7 @@
             "assist2_phone": null,
             "broker1_phone": null,
             "broker2_phone": null,
-            "address": "Miletičova 21, 82108 Bratislava, SK",
+            "address": "Miletičova 21, 82108, Bratislava, SK",
             "web": "http://www.groupama.sk/",
             "logo": "groupama.png",
             "info_phone": "220854208",
@@ -1103,10 +1200,14 @@
             "damage_report_phone": "220854208",
             "damage_report_web": "https://www.groupama.sk/sk/sluzby/skodova-udalost/ONLINE-hlasenie-skodovych-udalosti-.html",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Groupama poisťovňa",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1122,7 +1223,7 @@
             "assist2_phone": null,
             "broker1_phone": null,
             "broker2_phone": null,
-            "address": "Obchodná 2, 81106 Bratislava, SK",
+            "address": "Obchodná 2, 81106, Bratislava, SK",
             "web": "http://www.hdi-gerling.sk/",
             "logo": "hdi.png",
             "info_phone": null,
@@ -1130,10 +1231,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "HDI Slovensko",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1157,10 +1262,14 @@
             "damage_report_phone": "850111566",
             "damage_report_web": "https://webcalc.koop.sk/kpas/hlasenia",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "KOMUNÁLNA poisťovňa",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1184,10 +1293,14 @@
             "damage_report_phone": "850111577",
             "damage_report_web": "https://webcalc.koop.sk/koop/hlasenia",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "KOOPERATIVA poisťovňa",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1211,10 +1324,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "MetLife",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1238,10 +1355,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "NN Životná poisťovňa",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1265,10 +1386,14 @@
             "damage_report_phone": "850111211",
             "damage_report_web": "https://www.union.sk/app-nahlasenie-skodovej-udalosti",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Union poisťovňa",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1292,10 +1417,14 @@
             "damage_report_phone": "232600100",
             "damage_report_web": "https://skody.uniqa.sk/vozidla/",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "UNIQA pojišťovna",
+				"description": "predtým UNIQA poisťovňa"
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1319,10 +1448,14 @@
             "damage_report_phone": "233068805",
             "damage_report_web": "https://www.wuestenrot.sk/nahlasenie-poistnej-udalosti",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Wüstenrot poisťovňa",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false
             }
         },
         {
@@ -1346,10 +1479,17 @@
             "damage_report_phone": "221586866",
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Europ assistance",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"assist_line_homeland": "+420221586658",
+				"assist_line_abroad": "+420221586658",
+				"assist_service": "EUROP_ASSIST"
             }
         },
         {
@@ -1373,10 +1513,17 @@
             "damage_report_phone": "255790111",
             "damage_report_web": "https://www.slavia-pojistovna.cz/nahlaseni-skody/",
             "app_pojistovny": {
-                "logo_refresh": false
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Slavia pojišťovna",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"assist_line_homeland": "1220",
+				"assist_line_abroad": "+420255790260",
+				"assist_service": "GLOBAL_ASSIST"
             }
         },
         {
@@ -1400,10 +1547,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": true
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Credendo",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1427,10 +1578,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": true
+                "use_in_app": true,
+				"invisible": false,
+				"title": "ERGO Poisťovňa",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1454,10 +1609,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": true
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Európská cestovná poisťovna",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1481,10 +1640,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": true
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Poštová poisťovňa",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1508,10 +1671,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": true
+                "use_in_app": true,
+				"invisible": false,
+				"title": "AXA ASSISTANCE",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1535,10 +1702,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": true
+                "use_in_app": true,
+				"invisible": false,
+				"title": "MSIG",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1562,10 +1733,14 @@
             "damage_report_phone": null,
             "damage_report_web": null,
             "app_pojistovny": {
-                "logo_refresh": true
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Starr",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": false
+                "use_in_app": false,
+				"invisible": false
             }
         },
         {
@@ -1589,11 +1764,50 @@
             "damage_report_phone": "295562333",
             "damage_report_web": "https://www.mypillow.cz/kontakty#page04_part2_id",
             "app_pojistovny": {
-                "logo_refresh": true
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Pillow pojišťovna",
+				"description": null
             },
             "app_automobil": {
-                "use_in_app": true
+                "use_in_app": true,
+				"invisible": false,
+				"assist_line_homeland": "+420251032862",
+				"assist_line_abroad": "+420251032862",
+				"assist_service": "GLOBAL_ASSIST"
+            }
+        },
+        {
+            "id": 61,
+            "yeti_id": 1361886,
+            "country_abbr": "SK",
+            "name": "Europ Assistance",
+            "client1_phone": "220510858",
+            "client2_phone": null,
+            "assist1": null,
+            "assist1_phone": "220510858",
+            "assist2": null,
+            "assist2_phone": null,
+            "broker1_phone": null,
+            "broker2_phone": null,
+            "address": "Na Pankráci 1724/129, 14000, Praha 4, CZ",
+            "web": "https://www.europ-assistance.sk/",
+            "logo": "europ.png",
+            "info_phone": "220510858",
+            "email": null,
+            "damage_report_phone": null,
+            "damage_report_web": null,
+            "app_pojistovny": {
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Europ Assistance",
+				"description": null
+            },
+            "app_automobil": {
+                "use_in_app": true,
+				"invisible": false
             }
         }
     ]
  } 
+
