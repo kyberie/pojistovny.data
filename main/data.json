@@ -2148,6 +2148,37 @@
                 "use_in_app": true,
 				"invisible": false
             }
+        },
+        {
+            "id": 73,
+            "yeti_id": 1361886,
+            "country_abbr": "SK",
+            "name": "Europ Assistance",
+            "client1_phone": "220510858",
+            "client2_phone": null,
+            "assist1": null,
+            "assist1_phone": "220510858",
+            "assist2": null,
+            "assist2_phone": null,
+            "broker1_phone": null,
+            "broker2_phone": null,
+            "address": "Na Pankráci 1724/129, 14000, Praha 4, CZ",
+            "web": "https://www.europ-assistance.sk/",
+            "logo": "europ.png",
+            "info_phone": "220510858",
+            "email": null,
+            "damage_report_phone": null,
+            "damage_report_web": null,
+            "app_pojistovny": {
+                "use_in_app": true,
+				"invisible": false,
+				"title": "Europ Assistance",
+				"description": null
+            },
+            "app_automobil": {
+                "use_in_app": true,
+				"invisible": false
+            }
         }
     ]
  }
