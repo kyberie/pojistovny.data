@@ -17,13 +17,13 @@
 			"broker1_phone": null,
 			"broker2_phone": null,
 			"company_address": {
-				"city": "Praha 8",
+				"city": "Praga 8",
 				"street": "Pobřežní 620/3",
 				"zip": "18600",
 				"country_abbr": "CZ"
 			},
 			"web": "https://www.chubb.com/cz-cz/",
-			"logo": "chubb.png",
+			"logo": "abcasigurari.png",
 			"is_name_in_logo": true,
 			"info_phone": null,
 			"email": null,
