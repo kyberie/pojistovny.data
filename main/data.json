@@ -17,13 +17,13 @@
 			"broker1_phone": null,
 			"broker2_phone": null,
 			"company_address": {
-				"city": "Praga 8",
+				"city": "Praha 8",
 				"street": "Pobřežní 620/3",
 				"zip": "18600",
 				"country_abbr": "CZ"
 			},
 			"web": "https://www.chubb.com/cz-cz/",
-			"logo": "abcasigurari.png",
+			"logo": "chubb.png",
 			"is_name_in_logo": true,
 			"info_phone": null,
 			"email": null,
@@ -157,19 +157,19 @@
 			"damage_report_web": "https://www.axa.cz/skody-a-pojistne-udalosti/oznameni-skody/pojisteni-vozidel/obsah/skodni-udalost/",
 			"app_pojistovny": {
 				"use_in_app": true,
-				"invisible": false,
+				"invisible": true,
 				"title": "UNIQA pojišťovna",
 				"description": "dříve AXA pojišťovna"
 			},
 			"app_automobil": {
 				"use_in_app": true,
-				"invisible": false,
+				"invisible": true,
 				"assist_line_homeland": "1224",
 				"assist_line_abroad": "+420272101020",
 				"assist_service": "AXA_ASSIST"
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -350,7 +350,7 @@
 			"id": 10,
 			"yeti_id": 296,
 			"country_abbr": "CZ",
-			"name": "D.A.S. Rechtsschutz",
+			"name": "D.A.S. právní ochrana",
 			"client1_phone": "+420267990711",
 			"client2_phone": null,
 			"assist1": "Linka právní pomoci",
@@ -875,7 +875,7 @@
 			"damage_report_web": null,
 			"app_pojistovny": {
 				"use_in_app": true,
-				"invisible": false,
+				"invisible": true,
 				"title": "FLEXI",
 				"description": null
 			},
@@ -884,7 +884,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1127,16 +1127,16 @@
 			"damage_report_web": "https://skody.axa.sk/hlasenie/",
 			"app_pojistovny": {
 				"use_in_app": true,
-				"invisible": false,
+				"invisible": true,
 				"title": "UNIQA pojišťovna",
 				"description": "predtým AXA pojišťovna"
 			},
 			"app_automobil": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": true
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1168,7 +1168,7 @@
 			"damage_report_web": null,
 			"app_pojistovny": {
 				"use_in_app": true,
-				"invisible": false,
+				"invisible": true,
 				"title": "UNIQA pojišťovna",
 				"description": "predtým AXA životní pojišťovna"
 			},
@@ -1177,7 +1177,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1209,7 +1209,7 @@
 			"damage_report_web": null,
 			"app_pojistovny": {
 				"use_in_app": true,
-				"invisible": false,
+				"invisible": true,
 				"title": "Basler Sachversicherungs",
 				"description": null
 			},
@@ -1218,7 +1218,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1250,7 +1250,7 @@
 			"damage_report_web": null,
 			"app_pojistovny": {
 				"use_in_app": true,
-				"invisible": false,
+				"invisible": true,
 				"title": "Basler Lebensversicherungs",
 				"description": null
 			},
@@ -1259,7 +1259,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1414,7 +1414,7 @@
 			"damage_report_web": null,
 			"app_pojistovny": {
 				"use_in_app": true,
-				"invisible": false,
+				"invisible": true,
 				"title": "D.A.S. poistenie právnej ochrany",
 				"description": null
 			},
@@ -1423,7 +1423,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1578,16 +1578,16 @@
 			"damage_report_web": "https://www.groupama.sk/sk/sluzby/skodova-udalost/ONLINE-hlasenie-skodovych-udalosti-.html",
 			"app_pojistovny": {
 				"use_in_app": true,
-				"invisible": false,
+				"invisible": true,
 				"title": "Groupama poisťovňa",
 				"description": null
 			},
 			"app_automobil": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": true
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1841,7 +1841,7 @@
 			"id": 49,
 			"yeti_id": 28019,
 			"country_abbr": "SK",
-			"name": "UNIQA pojišťovna (predtým UNIQA poisťovňa)",
+			"name": "UNIQA pojišťovna",
 			"client1_phone": "+421232600100",
 			"client2_phone": null,
 			"assist1": "Asistencia pre motorové vozidlá",
@@ -2158,7 +2158,7 @@
 			"damage_report_web": null,
 			"app_pojistovny": {
 				"use_in_app": true,
-				"invisible": false,
+				"invisible": true,
 				"title": "Poštová poisťovňa",
 				"description": null
 			},
@@ -2167,7 +2167,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
