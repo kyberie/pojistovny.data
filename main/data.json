@@ -16,7 +16,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 8",
 				"street": "Pobřežní 620/3",
 				"zip": "18600",
@@ -57,7 +57,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 6",
 				"street": "Střešovická 748/48",
 				"zip": "16200",
@@ -98,7 +98,7 @@
 			"assist2_phone": null,
 			"broker1_phone": "+420224405240",
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 8",
 				"street": "Ke Štvanici 656/3",
 				"zip": "18600",
@@ -142,7 +142,7 @@
 			"assist2_phone": null,
 			"broker1_phone": "+420531021731",
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 6",
 				"street": "Evropská 810/136",
 				"zip": "16000",
@@ -186,7 +186,7 @@
 			"assist2_phone": "+420234108311",
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 4",
 				"street": "Na Pankráci 1683/127",
 				"zip": "14000",
@@ -227,7 +227,7 @@
 			"assist2_phone": "+420266799779",
 			"broker1_phone": "+420545113498",
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 8-Karlín",
 				"street": "Pobřežní 665/23",
 				"zip": "18600",
@@ -271,7 +271,7 @@
 			"assist2_phone": null,
 			"broker1_phone": "+420466677000",
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 1",
 				"street": "Spálená 75/16",
 				"zip": "11304",
@@ -315,7 +315,7 @@
 			"assist2_phone": null,
 			"broker1_phone": "+420466022915",
 			"broker2_phone": "+420466022223",
-			"address": {
+			"company_address": {
 				"city": "Pardubice - Zelené Předměstí",
 				"street": "Masarykovo náměstí 1458",
 				"zip": "53002",
@@ -359,7 +359,7 @@
 			"assist2_phone": null,
 			"broker1_phone": "+420603288251",
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 4 – Michle",
 				"street": "BB Centrum, budova Beta, Vyskočilova 1481/4",
 				"zip": "14000",
@@ -400,7 +400,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Brno",
 				"street": "Nové sady 996/25",
 				"zip": "60200",
@@ -444,7 +444,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha",
 				"street": "BB Centrum, budova BETA, Vyskočilova 1481/4",
 				"zip": "14000",
@@ -485,7 +485,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 8",
 				"street": "Křižíkova 237/36a",
 				"zip": "18600",
@@ -526,7 +526,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 2",
 				"street": "Římská 2135/45",
 				"zip": "12000",
@@ -570,7 +570,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 2",
 				"street": "Jugoslávská 29",
 				"zip": "12000",
@@ -611,7 +611,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 4",
 				"street": "Hvězdova 1689/2a",
 				"zip": "14062",
@@ -652,7 +652,7 @@
 			"assist2_phone": null,
 			"broker1_phone": "+420955527170",
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 8",
 				"street": "Karolinská 1/650",
 				"zip": "18600",
@@ -693,7 +693,7 @@
 			"assist2_phone": null,
 			"broker1_phone": "+420957115115",
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 8",
 				"street": "Pobřežní 665/21",
 				"zip": "18600",
@@ -737,7 +737,7 @@
 			"assist2_phone": null,
 			"broker1_phone": "+420273190456",
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 2",
 				"street": "Italská 1583/24",
 				"zip": "12000",
@@ -778,7 +778,7 @@
 			"assist2_phone": null,
 			"broker1_phone": "+420227111665",
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 1",
 				"street": "Purkyňova 3",
 				"zip": "11000",
@@ -819,7 +819,7 @@
 			"assist2_phone": null,
 			"broker1_phone": "+420257472709",
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 5",
 				"street": "Nádražní 344/25",
 				"zip": "15000",
@@ -860,7 +860,7 @@
 			"assist2_phone": null,
 			"broker1_phone": "+420957115115",
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 4",
 				"street": "Budějovická 1518/13a",
 				"zip": "14000",
@@ -901,7 +901,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 1",
 				"street": "Lazarská 1718/3",
 				"zip": "11000",
@@ -945,7 +945,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 6",
 				"street": "Evropská 810/136",
 				"zip": "16012",
@@ -989,7 +989,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Záhradnícka 21",
 				"zip": "81107",
@@ -1030,7 +1030,7 @@
 			"assist2_phone": "+421250122222",
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Dostojevského rad 4",
 				"zip": "81574",
@@ -1071,7 +1071,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Rajská 7",
 				"zip": "81108",
@@ -1112,7 +1112,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Krasovského 15",
 				"zip": "85101",
@@ -1153,7 +1153,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Krasovského 15",
 				"zip": "85101",
@@ -1194,7 +1194,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Námestie SNP 15",
 				"zip": "81103",
@@ -1235,7 +1235,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Námestie SNP 15",
 				"zip": "81103",
@@ -1276,7 +1276,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Šoltésovej 14",
 				"zip": "81108",
@@ -1317,7 +1317,7 @@
 			"assist2_phone": null,
 			"broker1_phone": "+421556826251",
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Košice",
 				"street": "Moldavská cesta 8 B",
 				"zip": "04280",
@@ -1358,7 +1358,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Žižkova 11",
 				"zip": "81102",
@@ -1399,7 +1399,7 @@
 			"assist2_phone": "+421249101020",
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Prievozská 4C",
 				"zip": "82109",
@@ -1440,7 +1440,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Bajkalská 19B",
 				"zip": "82101",
@@ -1481,7 +1481,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Lamačská cesta 3/A",
 				"zip": "84104",
@@ -1522,7 +1522,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Lamačská cesta 3/A",
 				"zip": "84104",
@@ -1563,7 +1563,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Miletičova 21",
 				"zip": "82108",
@@ -1604,7 +1604,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Obchodná 2",
 				"zip": "81106",
@@ -1645,7 +1645,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Štefánikova 17",
 				"zip": "81105",
@@ -1686,7 +1686,7 @@
 			"assist2_phone": "+421850111577",
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Štefanovičova 4",
 				"zip": "81623",
@@ -1727,7 +1727,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Pribinova 10",
 				"zip": "81109",
@@ -1768,7 +1768,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Jesenského 6143/4C",
 				"zip": "81102",
@@ -1809,7 +1809,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Karadžičova 10",
 				"zip": "81360",
@@ -1850,7 +1850,7 @@
 			"assist2_phone": "+421254411029",
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Krasovského 15",
 				"zip": "85101",
@@ -1891,7 +1891,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Karadžičova 17",
 				"zip": "82522",
@@ -1932,7 +1932,7 @@
 			"assist2_phone": "+420608221586",
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha",
 				"street": "Na Pankráci 1658/121",
 				"zip": "14000",
@@ -1976,7 +1976,7 @@
 			"assist2_phone": null,
 			"broker1_phone": "+420255790212",
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha",
 				"street": "Táborská 31/940",
 				"zip": "14000",
@@ -2020,7 +2020,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Mostová 2",
 				"zip": "81102",
@@ -2061,7 +2061,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Prievozská 4C",
 				"zip": "82108",
@@ -2102,7 +2102,7 @@
 			"assist2_phone": "+421254417712",
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Lamačská cesta 3/A",
 				"zip": "84104",
@@ -2143,7 +2143,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Dvořákovo nábrežie 4",
 				"zip": "81102",
@@ -2184,7 +2184,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha",
 				"street": "Hvězdova 1689/2a",
 				"zip": "14062",
@@ -2225,7 +2225,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Štúrova 11",
 				"zip": "81102",
@@ -2266,7 +2266,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Bratislava",
 				"street": "Panenská 5",
 				"zip": "81103",
@@ -2307,7 +2307,7 @@
 			"assist2_phone": "+420295562333",
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 4",
 				"street": "Líbalova 2348/1",
 				"zip": "14900",
@@ -2351,7 +2351,7 @@
 			"assist2_phone": null,
 			"broker1_phone": null,
 			"broker2_phone": null,
-			"address": {
+			"company_address": {
 				"city": "Praha 4",
 				"street": "Na Pankráci 1724/129",
 				"zip": "14000",
