@@ -40,7 +40,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -81,7 +81,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -210,7 +210,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -383,7 +383,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -509,7 +509,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -594,7 +594,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -635,7 +635,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -802,7 +802,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -843,7 +843,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1013,7 +1013,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1095,7 +1095,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1300,7 +1300,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1341,7 +1341,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1429,7 +1429,7 @@
 		},
 		{
 			"id": 39,
-			"yeti_id": null,
+			"yeti_id": 336921,
 			"country_abbr": "SK",
 			"name": "Euler Hermes",
 			"client1_phone": "+421220861800",
@@ -1464,7 +1464,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1546,7 +1546,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1628,7 +1628,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1751,7 +1751,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1792,7 +1792,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1959,7 +1959,7 @@
 				"assist_service": "EUROP_ASSIST"
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -2044,7 +2044,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -2076,7 +2076,7 @@
 			"damage_report_web": null,
 			"app_pojistovny": {
 				"use_in_app": true,
-				"invisible": false,
+				"invisible": true,
 				"title": "ERGO Poisťovňa",
 				"description": null
 			},
@@ -2085,7 +2085,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -2126,7 +2126,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -2176,10 +2176,10 @@
 			"yeti_id": null,
 			"country_abbr": "SK",
 			"name": "AXA ASSISTANCE",
-			"client1_phone": "+421220512776",
+			"client1_phone": "+421220664228",
 			"client2_phone": null,
 			"assist1": null,
-			"assist1_phone": null,
+			"assist1_phone": "+421220664229",
 			"assist2": null,
 			"assist2_phone": null,
 			"broker1_phone": null,
@@ -2208,7 +2208,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -2249,7 +2249,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -2290,7 +2290,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -2375,7 +2375,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		}
