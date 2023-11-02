@@ -40,7 +40,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -65,7 +65,7 @@
 			},
 			"web": "http://www.agrapojistovna.cz/",
 			"logo": "agra.png",
-			"is_name_in_logo": false,
+			"is_name_in_logo": true,
 			"info_phone": null,
 			"email": null,
 			"damage_report_phone": null,
@@ -81,7 +81,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -194,7 +194,7 @@
 			},
 			"web": "https://www.colonnade.cz/",
 			"logo": "colonnade.png",
-			"is_name_in_logo": false,
+			"is_name_in_logo": true,
 			"info_phone": "+420234094011",
 			"email": "skody@colonnade.cz",
 			"damage_report_phone": "+420800700025",
@@ -210,7 +210,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -383,7 +383,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -493,7 +493,7 @@
 			},
 			"web": "https://www.ervpojistovna.cz/",
 			"logo": "erv.png",
-			"is_name_in_logo": false,
+			"is_name_in_logo": true,
 			"info_phone": null,
 			"email": null,
 			"damage_report_phone": null,
@@ -509,7 +509,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -534,7 +534,7 @@
 			},
 			"web": "http://www.hasicskapojistovna.cz/",
 			"logo": "hasicska_vzajemna.png",
-			"is_name_in_logo": false,
+			"is_name_in_logo": true,
 			"info_phone": "+420222119119",
 			"email": "hvp@contin.cz",
 			"damage_report_phone": "+420539011854",
@@ -594,7 +594,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -619,7 +619,7 @@
 			},
 			"web": "https://www.axa-assistance.cz/",
 			"logo": "axaassistance.png",
-			"is_name_in_logo": false,
+			"is_name_in_logo": true,
 			"info_phone": null,
 			"email": null,
 			"damage_report_phone": null,
@@ -635,7 +635,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -701,7 +701,7 @@
 			},
 			"web": "https://www.koop.cz/",
 			"logo": "koop.png",
-			"is_name_in_logo": false,
+			"is_name_in_logo": true,
 			"info_phone": "+420957105105",
 			"email": null,
 			"damage_report_phone": "+420957105105",
@@ -745,7 +745,7 @@
 			},
 			"web": "https://www.maximapojistovna.cz/",
 			"logo": "maxima.png",
-			"is_name_in_logo": false,
+			"is_name_in_logo": true,
 			"info_phone": null,
 			"email": null,
 			"damage_report_phone": null,
@@ -802,7 +802,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -843,7 +843,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -997,7 +997,7 @@
 			},
 			"web": "http://www.agrapoistovna.sk/site_sk/index.cfm",
 			"logo": "agra.png",
-			"is_name_in_logo": false,
+			"is_name_in_logo": true,
 			"info_phone": null,
 			"email": null,
 			"damage_report_phone": null,
@@ -1013,7 +1013,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1095,7 +1095,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1300,7 +1300,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1325,7 +1325,7 @@
 			},
 			"web": "http://colonnade.sk/",
 			"logo": "colonnade.png",
-			"is_name_in_logo": false,
+			"is_name_in_logo": true,
 			"info_phone": null,
 			"email": null,
 			"damage_report_phone": null,
@@ -1341,7 +1341,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1429,7 +1429,7 @@
 		},
 		{
 			"id": 39,
-			"yeti_id": null,
+			"yeti_id": 336921,
 			"country_abbr": "SK",
 			"name": "Euler Hermes",
 			"client1_phone": "+421220861800",
@@ -1464,7 +1464,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1489,7 +1489,7 @@
 			},
 			"web": "https://www.generali.sk/",
 			"logo": "generali.png",
-			"is_name_in_logo": false,
+			"is_name_in_logo": true,
 			"info_phone": "+421238111117",
 			"email": null,
 			"damage_report_phone": "+421238111117",
@@ -1546,7 +1546,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1628,7 +1628,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1694,7 +1694,7 @@
 			},
 			"web": "http://www.koop.sk/",
 			"logo": "kooperativa.png",
-			"is_name_in_logo": false,
+			"is_name_in_logo": true,
 			"info_phone": "+421800120000",
 			"email": null,
 			"damage_report_phone": "+421850111577",
@@ -1751,7 +1751,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1792,7 +1792,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -1817,7 +1817,7 @@
 			},
 			"web": "https://www.union.sk/",
 			"logo": "union.png",
-			"is_name_in_logo": false,
+			"is_name_in_logo": true,
 			"info_phone": "+421850111211",
 			"email": null,
 			"damage_report_phone": "+421850111211",
@@ -1899,7 +1899,7 @@
 			},
 			"web": "https://www.wuestenrot.sk/",
 			"logo": "wustenrot_sk.png",
-			"is_name_in_logo": false,
+			"is_name_in_logo": true,
 			"info_phone": "+421233068808",
 			"email": null,
 			"damage_report_phone": "+421233068805",
@@ -1959,7 +1959,7 @@
 				"assist_service": "EUROP_ASSIST"
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -2044,7 +2044,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -2076,7 +2076,7 @@
 			"damage_report_web": null,
 			"app_pojistovny": {
 				"use_in_app": true,
-				"invisible": false,
+				"invisible": true,
 				"title": "ERGO Poisťovňa",
 				"description": null
 			},
@@ -2085,7 +2085,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -2110,7 +2110,7 @@
 			},
 			"web": "https://www.europska.sk/",
 			"logo": "europska.png",
-			"is_name_in_logo": false,
+			"is_name_in_logo": true,
 			"info_phone": null,
 			"email": null,
 			"damage_report_phone": null,
@@ -2126,7 +2126,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -2176,10 +2176,10 @@
 			"yeti_id": null,
 			"country_abbr": "SK",
 			"name": "AXA ASSISTANCE",
-			"client1_phone": "+421220512776",
+			"client1_phone": "+421220664228",
 			"client2_phone": null,
 			"assist1": null,
-			"assist1_phone": null,
+			"assist1_phone": "+421220664229",
 			"assist2": null,
 			"assist2_phone": null,
 			"broker1_phone": null,
@@ -2192,7 +2192,7 @@
 			},
 			"web": "https://www.axa.sk/",
 			"logo": "axaassistance.png",
-			"is_name_in_logo": false,
+			"is_name_in_logo": true,
 			"info_phone": null,
 			"email": null,
 			"damage_report_phone": null,
@@ -2208,7 +2208,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -2249,7 +2249,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -2290,7 +2290,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		},
@@ -2375,7 +2375,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": true,
+				"use_in_app": false,
 				"invisible": false
 			}
 		}
