@@ -7,6 +7,7 @@ fs.readFile('main/data.json', (err, data) => {
   let pojistovny = JSON.parse(data);
   let zip_name_all = pojistovny.logos_zip_file_all;
   let zip_name_automobil = pojistovny.logos_zip_file_automobil;
+  let zip_name_domov = pojistovny.logos_zip_file_domov;
 
   var outputAll = fs.createWriteStream('main/' + zip_name_all);
   var archiveAll = archiver('zip', {
@@ -19,9 +20,16 @@ fs.readFile('main/data.json', (err, data) => {
     zlib: { level: 9 } 
   });
   archiveAuto.pipe(outputAuto);
+  
+  var outputDomov = fs.createWriteStream('main/' + zip_name_domov);
+  var archiveDomov = archiver('zip', {
+    zlib: { level: 9 } 
+  });
+  archiveDomov.pipe(outputDomov);
 
   var logos = [];
   var logosAuto = [];
+  var logosDomov = [];
   for (index in pojistovny.insurers) {
     var pojistovna = pojistovny.insurers[index];
     if (logos[pojistovna.logo] != 1) {
@@ -35,12 +43,20 @@ fs.readFile('main/data.json', (err, data) => {
         logosAuto[pojistovna.logo] = 1;
       }
     }
+	
+	if (pojistovna.app_domov.use_in_app) {
+      if (logosDomov[pojistovna.logo] != 1) {
+        archiveDomov.file('main/logo/' + pojistovna.logo, { name: pojistovna.logo });
+        logosDomov[pojistovna.logo] = 1;
+      }
+    }
 
   //  console.log(pojistovna.logo);
   }
 
   archiveAll.finalize();
   archiveAuto.finalize();
+  archiveDomov.finalize();
 });
 
 fs.writeFile('main/update.json', '{"update":"' + date.toISOString() + '"}', function (err) {
