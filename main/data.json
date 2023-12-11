@@ -1893,8 +1893,8 @@
 			"broker2_phone": null,
 			"company_address": {
 				"city": "Bratislava",
-				"street": "Karadžičova 17",
-				"zip": "82522",
+				"street": "Digital Park I, Einsteinova 21",
+				"zip": "85101",
 				"country_abbr": "SK"
 			},
 			"web": "https://www.wuestenrot.sk/",
@@ -2380,4 +2380,4 @@
 			}
 		}
 	]
-}
+} 
