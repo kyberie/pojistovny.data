@@ -1337,7 +1337,7 @@
 				"description": null
 			},
 			"app_automobil": {
-				"use_in_app": false,
+				"use_in_app": true,
 				"invisible": false
 			},
 			"app_domov": {
