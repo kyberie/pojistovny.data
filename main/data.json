@@ -33,7 +33,10 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Chubb",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222351251", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -41,7 +44,13 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -74,7 +83,10 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Agra pojišťovna",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "233312836", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -82,7 +94,13 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -115,18 +133,35 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Allianz pojišťovna",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Klientská linka"},
+					{"id": 2, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "224405240", "title": "Makléřská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
 				"invisible": false,
 				"assist_line_homeland": "1224",
 				"assist_line_abroad": "+420241170000",
-				"assist_service": "ALLIANZ_ASSIST"
+				"assist_service": "ALLIANZ_ASSIST",
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1224"},
+					{"id": 5, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "241170000"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -159,18 +194,35 @@
 				"use_in_app": true,
 				"invisible": true,
 				"title": "UNIQA pojišťovna",
-				"description": "dříve AXA pojišťovna"
+				"description": "dříve AXA pojišťovna",
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "292292292", "title": "Klientská linka"},
+					{"id": 2, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "531021731", "title": "Makléřská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
 				"invisible": true,
 				"assist_line_homeland": "1224",
 				"assist_line_abroad": "+420272101020",
-				"assist_service": "AXA_ASSIST"
+				"assist_service": "AXA_ASSIST",
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "292292292", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "292292292", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.axa.cz/skody-a-pojistne-udalosti/oznameni-skody/pojisteni-vozidel/obsah/skodni-udalost/", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1224"},
+					{"id": 5, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "272101020"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -203,15 +255,32 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Colonnade Insurance",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "234094011", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586687", "title": "Asistenční služba"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "234108311", "title": "Hlášení škod"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586687", "title": "Asistenční linka"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "234094011", "title": "Info linka"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "800700025", "title": "Hlášení škod"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.colonnade.cz/pojistna-udalost/automobily/", "title": "Online formulář"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -244,18 +313,38 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Česká podnikatelská pojišťovna",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957444555", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "1220", "title": "GLOBAL ASSISTANCE, a.s."},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "266799779", "title": "Asistenční linka"},
+					{"id": 4, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "545113498", "title": "Makléřská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
 				"invisible": false,
 				"assist_line_homeland": "1220",
 				"assist_line_abroad": "+420266799779",
-				"assist_service": "GLOBAL_ASSIST"
+				"assist_service": "GLOBAL_ASSIST",
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "1220", "title": "Asistenční linka"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957444555", "title": "Info linka"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "957444555", "title": "Hlášení škod"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://insure.cpp.cz/hlasenky-web/faces/vstup_info.xhtml", "title": "Online formulář"},
+					{"id": 5, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1220"},
+					{"id": 6, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "266799779"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -288,18 +377,37 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Generali Česká pojišťovna",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241114114", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "1224", "title": "Asistence z ČR"},
+					{"id": 3, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "466677000", "title": "Makléřská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
 				"invisible": false,
 				"assist_line_homeland": "1224",
 				"assist_line_abroad": "+420241114114",
-				"assist_service": "EUROP_ASSIST"
+				"assist_service": "EUROP_ASSIST",
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "1224", "title": "Asistenční linka"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241114114", "title": "Info linka"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "241114114", "title": "Hlášení škod"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.generaliceska.cz/nahlasit-skodu#auto", "title": "Online formulář"},
+					{"id": 5, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1224"},
+					{"id": 6, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "241114114"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -332,18 +440,38 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "ČSOB Pojišťovna",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "466100777", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222803442", "title": "Asistenční linka"},
+					{"id": 3, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "466022915", "title": "Makléřská linka"},
+					{"id": 4, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "466022223", "title": "Makléřská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
 				"invisible": false,
 				"assist_line_homeland": "1224",
 				"assist_line_abroad": "+420222803442",
-				"assist_service": "GLOBAL_ASSIST"
+				"assist_service": "GLOBAL_ASSIST",
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222803442", "title": "Asistenční linka"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "466100777", "title": "Info linka"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "466100777", "title": "Hlášení škod"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.csobpoj.cz/oznameni-pojistne-udalosti-pojisteni-vozidel", "title": "Online formulář"},
+					{"id": 5, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1224"},
+					{"id": 6, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "222803442"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -376,15 +504,29 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "D.A.S. právní ochrana",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "267990711", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "267990777", "title": "Linka právní pomoci"},
+					{"id": 3, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "603288251", "title": "Makléřská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "267990777", "title": "Asistenční linka"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -417,18 +559,36 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "DIRECT pojišťovna",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221221221", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "291291291", "title": "Asistenční služba"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
 				"invisible": false,
 				"assist_line_homeland": "1224",
 				"assist_line_abroad": "+420291291291",
-				"assist_service": "EUROP_ASSIST"
+				"assist_service": "EUROP_ASSIST",
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "291291291", "title": "Asistenční linka"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221221221", "title": "Info linka"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "270270777", "title": "Hlášení škod"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.direct.cz/online/hlaseni-skody/autopojisteni", "title": "Online formulář"},
+					{"id": 5, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1224"},
+					{"id": 6, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "291291291"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -461,7 +621,10 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "SV pojišťovna",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221585111", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -469,7 +632,13 @@
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -502,15 +671,28 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "ERV Evropská pojišťovna",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221860860", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221860606", "title": "Asistenční služba"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221860606", "title": "Asistenční linka"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -543,18 +725,34 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Hasičská vzájemná pojišťovna",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222119119", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
 				"invisible": false,
 				"assist_line_homeland": "1224",
 				"assist_line_abroad": "+420272101062",
-				"assist_service": "AXA_ASSIST"
+				"assist_service": "AXA_ASSIST",
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222119119", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "539011854", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.contin.cz/hlaseni-skod", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1224"},
+					{"id": 5, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "272101062"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -587,7 +785,10 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "HDI Versicherung",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "220190210", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -595,7 +796,13 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -628,15 +835,28 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "AXA ASSISTANCE",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "272099990", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "272099911", "title": "Asistenční služba"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "272099911", "title": "Asistenční linka"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -669,15 +889,29 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Komerční pojišťovna",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "800106610", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222095999", "title": "Asistenční linka"},
+					{"id": 3, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "955527170", "title": "Makléřská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222095999", "title": "Asistenční linka"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -710,18 +944,35 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Kooperativa pojišťovna",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957105105", "title": "Klientská linka"},
+					{"id": 2, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957115115", "title": "Makléřská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
 				"invisible": false,
 				"assist_line_homeland": "1220",
 				"assist_line_abroad": "+420266799779",
-				"assist_service": "GLOBAL_ASSIST"
+				"assist_service": "GLOBAL_ASSIST",
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957105105", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "957105105", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://insure.koop.cz/hlasenky-web/faces/vstup_info.xhtml", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1220"},
+					{"id": 5, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "266799779"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -754,7 +1005,11 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Maxima pojišťovna",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "273190400", "title": "Klientská linka"},
+					{"id": 2, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "273190456", "title": "Makléřská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -762,7 +1017,13 @@
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -795,7 +1056,11 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "MetLife",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "227111000", "title": "Klientská linka"},
+					{"id": 2, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "227111665", "title": "Makléřská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -803,7 +1068,13 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -836,15 +1107,29 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "NN Životní pojišťovna",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "800127127", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "257473737", "title": "Medicínská podpora"},
+					{"id": 3, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "257472709", "title": "Makléřská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "257473737", "title": "Asistenční linka"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -877,7 +1162,11 @@
 				"use_in_app": true,
 				"invisible": true,
 				"title": "FLEXI",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957105105", "title": "Klientská linka"},
+					{"id": 2, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957115115", "title": "Makléřská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -885,7 +1174,13 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -918,18 +1213,34 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Pojišťovna VZP",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "233006311", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
 				"invisible": false,
 				"assist_line_homeland": "+420226294294",
 				"assist_line_abroad": "+420226294294",
-				"assist_service": "GLOBAL_ASSIST"
+				"assist_service": "GLOBAL_ASSIST",
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "233006311", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "226294294", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://online.pvzp.cz/clfe/claim/motor/#/registration", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "prefix": "+420", "value": "226294294"},
+					{"id": 5, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "226294294"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -962,18 +1273,36 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "UNIQA pojišťovna",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "488125125", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "488125125", "title": "Asistenční linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
 				"invisible": false,
 				"assist_line_homeland": "1224",
 				"assist_line_abroad": "+420272101020",
-				"assist_service": "AXA_ASSIST"
+				"assist_service": "AXA_ASSIST",
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "488125125", "title": "Asistenční linka"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "488125125", "title": "Info linka"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "488125125", "title": "Hlášení škod"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://skody.uniqa.cz/vozidla/", "title": "Online formulář"},
+					{"id": 5, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1224"},
+					{"id": 6, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "272101020"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1006,7 +1335,11 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Agra poistovňa",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "255643450", "title": "Klientská linka"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "255643450", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -1014,7 +1347,13 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1047,15 +1386,32 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Allianz - Slovenská poisťovňa",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "250122122", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "252933112", "title": "Asistenční linka"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "250122222", "title": "Hlášení škod"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "252933112", "title": "Asistenční linka"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800122222", "title": "Info linka"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "250122222", "title": "Hlášení škod"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianzsp.sk/sk_SK/sukromne-osoby/ine-stranky/hlasenie-a-sledovanie-skod.html", "title": "Online formulář"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1088,7 +1444,10 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Atradius Credit Insurance",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "232336311", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -1096,7 +1455,13 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1129,15 +1494,29 @@
 				"use_in_app": true,
 				"invisible": true,
 				"title": "UNIQA pojišťovna",
-				"description": "predtým AXA pojišťovna"
+				"description": "predtým AXA pojišťovna",
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "229292929", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
-				"invisible": true
+				"invisible": true,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "229292929", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "229292929", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://skody.axa.sk/hlasenie/", "title": "Online formulář"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1170,7 +1549,10 @@
 				"use_in_app": true,
 				"invisible": true,
 				"title": "UNIQA pojišťovna",
-				"description": "predtým AXA životní pojišťovna"
+				"description": "predtým AXA životní pojišťovna",
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "229292929", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -1178,7 +1560,13 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1211,7 +1599,10 @@
 				"use_in_app": true,
 				"invisible": true,
 				"title": "Basler Sachversicherungs",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800101616", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -1219,7 +1610,13 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1252,7 +1649,10 @@
 				"use_in_app": true,
 				"invisible": true,
 				"title": "Basler Lebensversicherungs",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800100555", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -1260,7 +1660,13 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1293,7 +1699,10 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Coface",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "267201616", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -1301,7 +1710,13 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1334,15 +1749,29 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Colonnade Insurance",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "556826222", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111333", "title": "Úrazové poistenie"},
+					{"id": 3, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+421", "value": "556826251", "title": "Makléřská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111333", "title": "Asistenční linka"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1375,15 +1804,31 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "ČSOB Poisťovňa",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111303", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "244450050", "title": "Asistenční linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "244450050", "title": "Asistenční linka"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111303", "title": "Info linka"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850311312", "title": "Hlášení škod"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.csob.sk/online-nahlasenie-poistnej-udalosti", "title": "Online formulář"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1416,15 +1861,29 @@
 				"use_in_app": true,
 				"invisible": true,
 				"title": "D.A.S. poistenie právnej ochrany",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "250122222", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "249101049", "title": "Asistenční linka"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "249101020", "title": "Od 16:00 do 8:00 a mimo pracovných dní"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "249101049", "title": "Asistenční linka"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1457,7 +1916,10 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Euler Hermes",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220861800", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -1465,7 +1927,13 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1498,15 +1966,29 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Generali Poisťovňa",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "238111117", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "238111117", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "238111117", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.generali.sk/poistna-udalost/hlasenie-poistnych-udalosti/", "title": "Online formulář"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1539,15 +2021,31 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Generali Poisťovňa",
-				"description": "odštepný závod Genertel"
+				"description": "odštepný závod Genertel",
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850555555", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "232784284", "title": "Asistenční linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "232784284", "title": "Asistenční linka"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850555555", "title": "Info linka"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850555555", "title": "Hlášení škod"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.generali.sk/hlaseniepu/faces/pages/hlasenie_pu.xhtml?poistenie=pzpv&genertel=true", "title": "Online formulář"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1580,15 +2078,31 @@
 				"use_in_app": true,
 				"invisible": true,
 				"title": "Groupama poisťovňa",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220854208", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220854504", "title": "Asistenční linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
-				"invisible": true
+				"invisible": true,
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220854504", "title": "Asistenční linka"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220854208", "title": "Info linka"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "220854208", "title": "Hlášení škod"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.groupama.sk/sk/sluzby/skodova-udalost/ONLINE-hlasenie-skodovych-udalosti-.html", "title": "Online formulář"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1621,7 +2135,10 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "HDI Slovensko",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "257108611", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -1629,7 +2146,13 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1662,15 +2185,31 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "KOMUNÁLNA poisťovňa",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800112222", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111566", "title": "non stop dispečing škôd"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111566", "title": "Asistenční linka"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800112222", "title": "Info linka"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850111566", "title": "Hlášení škod"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://webcalc.koop.sk/kpas/hlasenia", "title": "Online formulář"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1703,15 +2242,32 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "KOOPERATIVA poisťovňa",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800120000", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "257299983", "title": "hlásenie škod"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111577", "title": "hlásenie škod"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "257299983", "title": "Asistenční linka"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800120000", "title": "Info linka"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850111577", "title": "Hlášení škod"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://webcalc.koop.sk/koop/hlasenia", "title": "Online formulář"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1744,7 +2300,11 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "MetLife",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800800008", "title": "Klientská linka"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "259363111", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -1752,7 +2312,13 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1785,7 +2351,10 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "NN Životná poisťovňa",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111464", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -1793,7 +2362,13 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1826,15 +2401,30 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Union poisťovňa",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850003333", "title": "Klientská linka"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220811811", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111211", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850111211", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.union.sk/app-nahlasenie-skodovej-udalosti", "title": "Online formulář"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1867,15 +2457,32 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "UNIQA pojišťovna",
-				"description": "predtým UNIQA poisťovňa"
+				"description": "predtým UNIQA poisťovňa",
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "232600100", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "258252188", "title": "Asistencia pre motorové vozidlá"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "254411029", "title": "Asistencia pre cestovné poistenie"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "258252188", "title": "Asistenční linka"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "232600100", "title": "Info linka"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "232600100", "title": "Hlášení škod"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://skody.uniqa.sk/vozidla/", "title": "Online formulář"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1908,15 +2515,29 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Wüstenrot poisťovňa",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850606060", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "233068808", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "233068805", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.wuestenrot.sk/nahlasenie-poistnej-udalosti", "title": "Online formulář"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1949,18 +2570,36 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Europ assistance",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586658", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586111", "title": "Asistenční centrála"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "608221586", "title": "Asistenční centrála - SMS"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
 				"invisible": false,
 				"assist_line_homeland": "+420221586658",
 				"assist_line_abroad": "+420221586658",
-				"assist_service": "EUROP_ASSIST"
+				"assist_service": "EUROP_ASSIST",
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586111", "title": "Asistenční linka"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586658", "title": "Info linka"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "221586866", "title": "Hlášení škod"},
+					{"id": 4, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "prefix": "+420", "value": "221586658"},
+					{"id": 5, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "221586658"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -1993,18 +2632,37 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Slavia pojišťovna",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "255790111", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "1224", "title": "Linka pomoci řidičům"},
+					{"id": 3, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "255790212", "title": "Makléřská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
 				"invisible": false,
 				"assist_line_homeland": "1220",
 				"assist_line_abroad": "+420255790260",
-				"assist_service": "GLOBAL_ASSIST"
+				"assist_service": "GLOBAL_ASSIST",
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "1224", "title": "Asistenční linka"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "255790111", "title": "Info linka"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "255790111", "title": "Hlášení škod"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.slavia-pojistovna.cz/nahlaseni-skody/", "title": "Online formulář"},
+					{"id": 5, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1220"},
+					{"id": 6, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "255790260"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -2037,7 +2695,10 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Credendo",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "232661907", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -2045,7 +2706,13 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -2078,7 +2745,10 @@
 				"use_in_app": true,
 				"invisible": true,
 				"title": "ERGO Poisťovňa",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850777777", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -2086,7 +2756,13 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -2119,15 +2795,29 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Európská cestovná poisťovna",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "254417704", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "254417711", "title": "Asistenční linka"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "254417712", "title": "Asistenční linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "254417711", "title": "Asistenční linka"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -2160,7 +2850,10 @@
 				"use_in_app": true,
 				"invisible": true,
 				"title": "Poštová poisťovňa",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850003333", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -2168,7 +2861,13 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -2201,15 +2900,28 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "AXA ASSISTANCE",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220664228", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220664229", "title": "Asistenční linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220664229", "title": "Asistenční linka"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -2242,7 +2954,10 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "MSIG",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "250207811", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -2250,7 +2965,13 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -2283,7 +3004,10 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Starr",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "905562147", "title": "Klientská linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": false,
@@ -2291,7 +3015,13 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -2324,18 +3054,37 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Pillow pojišťovna",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "734510530", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "246097285", "title": "Auto/Dům/Byt asistence"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "295562333", "title": "Auto/Dům/Byt/Úraz oznámení škod"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
 				"invisible": false,
 				"assist_line_homeland": "+420251032862",
 				"assist_line_abroad": "+420251032862",
-				"assist_service": "GLOBAL_ASSIST"
+				"assist_service": "GLOBAL_ASSIST",
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "246097285", "title": "Asistenční linka"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "734510530", "title": "Info linka"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "295562333", "title": "Hlášení škod"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.mypillow.cz/kontakty#page04_part2_id", "title": "Online formulář"},
+					{"id": 5, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "prefix": "+420", "value": "251032862"},
+					{"id": 6, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "251032862"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -2368,15 +3117,29 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Europ Assistance",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220510858", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220510858", "title": "Asistenční linka"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220510858", "title": "Asistenční linka"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220510858", "title": "Info linka"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		},
 		{
@@ -2409,15 +3172,32 @@
 				"use_in_app": true,
 				"invisible": false,
 				"title": "Pillow SK",
-				"description": null
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "734510530", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "246097285", "title": "Auto/Dům/Byt asistence"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "295562333", "title": "Auto/Dům/Byt/Úraz oznámení škod"}
+				]
 			},
 			"app_automobil": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "246097285", "title": "Asistenční linka"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "734510530", "title": "Info linka"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "295562333", "title": "Hlášení škod"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.mypillow.sk/skody-a-kontakty", "title": "Online formulář"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": true,
-				"invisible": false
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Info linka"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "606606606", "title": "Hlášení škod"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"}
+				]
 			}
 		}
 	]
