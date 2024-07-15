@@ -2378,6 +2378,47 @@
 				"use_in_app": false,
 				"invisible": false
 			}
+		},
+		{
+			"id": 62,
+			"yeti_id": 668622,
+			"country_abbr": "SK",
+			"name": "Pillow poisťovňa",
+			"client1_phone": "+421911826587",
+			"client2_phone": null,
+			"assist1": "Auto/Dom/Byt asistencie",
+			"assist1_phone": "+421522902909",
+			"assist2": null,
+			"assist2_phone": null,
+			"broker1_phone": null,
+			"broker2_phone": null,
+			"company_address": {
+				"city": "Praha 4 - Chodov",
+				"street": "Líbalova 2348/1",
+				"zip": "14900",
+				"country_abbr": "CZ"
+			},
+			"web": "https://www.mypillow.sk/",
+			"logo": "pillow.png",
+			"is_name_in_logo": false,
+			"info_phone": "+421522902902",
+			"email": "skoda@mypillow.sk",
+			"damage_report_phone": "+421295562333",
+			"damage_report_web": "https://www.mypillow.sk/skody-a-kontakty",
+			"app_pojistovny": {
+				"use_in_app": true,
+				"invisible": false,
+				"title": "Pillow SK",
+				"description": null
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"invisible": false
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"invisible": false
+			}
 		}
 	]
-} 
+}
