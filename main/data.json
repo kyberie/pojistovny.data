@@ -44,7 +44,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -88,7 +88,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -203,7 +203,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -255,7 +255,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -492,7 +492,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -750,7 +750,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -795,7 +795,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -999,7 +999,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -1045,7 +1045,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -1090,7 +1090,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -1256,7 +1256,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -1357,7 +1357,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -1406,7 +1406,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -1450,7 +1450,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -1494,7 +1494,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -1538,7 +1538,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -1582,7 +1582,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -1735,7 +1735,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -1779,7 +1779,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -1883,7 +1883,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -1934,7 +1934,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -1978,7 +1978,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -2136,7 +2136,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -2180,7 +2180,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -2400,7 +2400,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -2507,7 +2507,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -2551,7 +2551,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -2597,7 +2597,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -2641,7 +2641,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -2686,7 +2686,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -2730,7 +2730,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -2774,7 +2774,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -2888,7 +2888,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
 		},
 		{
@@ -2939,8 +2939,8 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"invisible": false,
+				"invisible": false
 			}
-		}		
+		}	
 	]
 }
