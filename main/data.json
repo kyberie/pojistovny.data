@@ -198,7 +198,7 @@
 			"info_phone": "+420234094011",
 			"email": "skody@colonnade.cz",
 			"damage_report_phone": "+420800700025",
-			"damage_report_web": "https://www.colonnade.cz/pojistna-udalost/automobily/",
+			"damage_report_web": "https://skody.colonnade.cz/",
 			"app_pojistovny": {
 				"use_in_app": true,
 				"invisible": false,
@@ -1328,8 +1328,8 @@
 			"is_name_in_logo": true,
 			"info_phone": null,
 			"email": null,
-			"damage_report_phone": null,
-			"damage_report_web": null,
+			"damage_report_phone": "+421556826222",
+			"damage_report_web": "https://www.colonnade.sk/hlasenie-skod",
 			"app_pojistovny": {
 				"use_in_app": true,
 				"invisible": false,
@@ -1820,7 +1820,7 @@
 			"is_name_in_logo": true,
 			"info_phone": "+421850111211",
 			"email": null,
-			"damage_report_phone": "+421850111211",
+			"damage_report_phone": "+421850003333",
 			"damage_report_web": "https://www.union.sk/app-nahlasenie-skodovej-udalosti",
 			"app_pojistovny": {
 				"use_in_app": true,
@@ -2362,8 +2362,8 @@
 			"is_name_in_logo": true,
 			"info_phone": "+421220510858",
 			"email": null,
-			"damage_report_phone": null,
-			"damage_report_web": null,
+			"damage_report_phone": "+421220510858",
+			"damage_report_web": "https://www.europ-assistance.sk/kontakt",
 			"app_pojistovny": {
 				"use_in_app": true,
 				"invisible": false,
@@ -2403,7 +2403,7 @@
 			"is_name_in_logo": false,
 			"info_phone": "+421522902902",
 			"email": "skoda@mypillow.sk",
-			"damage_report_phone": "+421295562333",
+			"damage_report_phone": "+421911826587",
 			"damage_report_web": "https://www.mypillow.sk/skody-a-kontakty",
 			"app_pojistovny": {
 				"use_in_app": true,
