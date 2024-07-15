@@ -1328,8 +1328,8 @@
 			"is_name_in_logo": true,
 			"info_phone": null,
 			"email": null,
-			"damage_report_phone": "+421556826222",
-			"damage_report_web": "https://www.colonnade.sk/hlasenie-skod",
+			"damage_report_phone": null,
+			"damage_report_web": null,
 			"app_pojistovny": {
 				"use_in_app": true,
 				"invisible": false,
@@ -1341,7 +1341,7 @@
 				"invisible": false
 			},
 			"app_domov": {
-				"use_in_app": false,
+				"use_in_app": true,
 				"invisible": false
 			}
 		},
