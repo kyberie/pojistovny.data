@@ -2941,6 +2941,101 @@
 				"use_in_app": false,
 				"invisible": false
 			}
-		}	
+		},
+		{
+			"id": 63,
+			"yeti_id": 1405405,
+			"country_abbr": "CZ",
+			"name": "PREMIUM Pojišťovna",
+			"client1_phone": "+420725125088",
+			"client2_phone": null,
+			"assist1": "Hlášení škod",
+			"assist1_phone": "+420725125088",
+			"assist2": null,
+			"assist2_phone": null,
+			"broker1_phone": null,
+			"broker2_phone": null,
+			"company_address": {
+				"city": "Praha 8",
+				"street": "Pobřežní 620/3",
+				"zip": "18600",
+				"country_abbr": "CZ"
+			},
+			"web": "https://premium-ic.cz/",
+			"logo": "premium.png",
+			"is_name_in_logo": true,
+			"info_phone": null,
+			"email": "pojisteni@premium-ic.cz",
+			"damage_report_phone": null,
+			"damage_report_web": null,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"invisible": false,
+				"title": "PREMIUM CZ",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "725125088", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "725125088", "title": "Hlášení škod"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"invisible": false
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"invisible": false
+			}
+		},
+		{
+			"id": 64,
+			"yeti_id": 1048338,
+			"country_abbr": "SK",
+			"name": "PREMIUM Poisťovňa",
+			"client1_phone": "0850888988",
+			"client2_phone": null,
+			"assist1": "Hlášení škod",
+			"assist1_phone": "+421850888988",
+			"assist2": null,
+			"assist2_phone": null,
+			"broker1_phone": null,
+			"broker2_phone": null,
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Námestie Mateja Korvína 1",
+				"zip": "81107",
+				"country_abbr": "SK"
+			},
+			"web": "https://premium-ic.sk/",
+			"logo": "premium.png",
+			"is_name_in_logo": true,
+			"info_phone": null,
+			"email": "poistenie@premium-ic.sk",
+			"damage_report_phone": null,
+			"damage_report_web": null,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"invisible": false,
+				"title": "PREMIUM SK",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "value": "0850888988", "title": "Klientská linka"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850888988", "title": "Hlášení škod"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"invisible": false
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"invisible": false,
+				"links":[
+					{"id": 1, "type": "INFO_LINE", "subtype": "PHONE", "value": "0850888988"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850888988"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://likvidacia.premium-ic.sk/claims-svk/portal/home", "title": "Online formulář"}
+				]
+			}
+		}
 	]
 }
