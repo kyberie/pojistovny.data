@@ -1,0 +1,2360 @@
+{	"json_version":1,
+	"logos_zip_file_all": "logos_v2.zip",
+	"logos_zip_file_automobil": "logos_automobil_v2.zip",
+	"logos_zip_file_domov": "logos_domov_v2.zip",
+	"insurers": [
+		{
+			"id": 1,
+			"yeti_id": 80012,
+			"country_abbr": "CZ",
+			"name": "Chubb",
+			"company_address": {
+				"city": "Praha 8",
+				"street": "Pobřežní 620/3",
+				"zip": "18600",
+				"country_abbr": "CZ"
+			},
+			"logo": "chubb.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Chubb",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.chubb.com/cz-cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222351251"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 3,
+			"yeti_id": 89051,
+			"country_abbr": "CZ",
+			"name": "Agra pojišťovna",
+			"company_address": {
+				"city": "Praha 6",
+				"street": "Střešovická 748/48",
+				"zip": "16200",
+				"country_abbr": "CZ"
+			},
+			"logo": "agra.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Agra pojišťovna",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.agrapojistovna.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "233312836"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 4,
+			"yeti_id": 45,
+			"country_abbr": "CZ",
+			"name": "Allianz pojišťovna",
+			"company_address": {
+				"city": "Praha 8",
+				"street": "Ke Štvanici 656/3",
+				"zip": "18600",
+				"country_abbr": "CZ"
+			},
+			"logo": "allianz.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Allianz pojišťovna",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.allianz.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000"},
+					{"id": 3, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "224405240"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"assist_service": "ALLIANZ_ASSIST",
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.allianz.cz/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "241170000"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/pojisteni/sluzby-a-hlaseni-skody/oznamit-novou-udalost/auta-a-vozidla.html#nahlasit", "title": "Online formulář"},
+					{"id": 5, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1224"},
+					{"id": 6, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "241170000"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.allianz.cz/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "241170000"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/online-hlaseni/hlaseni-skody-majetku.html#/claims-journey", "title": "Online formulář"}
+				]
+			}
+		},
+		{
+			"id": 5,
+			"yeti_id": 146173,
+			"country_abbr": "CZ",
+			"name": "UNIQA pojišťovna (dříve AXA pojišťovna)",
+			"company_address": {
+				"city": "Praha 6",
+				"street": "Evropská 810/136",
+				"zip": "16000",
+				"country_abbr": "CZ"
+			},
+			"logo": "uniqa2.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": false,
+				"title": "UNIQA pojišťovna",
+				"description": "dříve AXA pojišťovna",
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.uniqa.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "292292292"},
+					{"id": 3, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "531021731"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": false,
+				"assist_service": "AXA_ASSIST",
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.uniqa.cz/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "292292292"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "292292292"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.axa.cz/skody-a-pojistne-udalosti/oznameni-skody/pojisteni-vozidel/obsah/skodni-udalost/", "title": "Online formulář"},
+					{"id": 5, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1224"},
+					{"id": 6, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "272101020"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 6,
+			"yeti_id": 660347,
+			"country_abbr": "CZ",
+			"name": "Colonnade Insurance",
+			"company_address": {
+				"city": "Praha 4",
+				"street": "Na Pankráci 1683/127",
+				"zip": "14000",
+				"country_abbr": "CZ"
+			},
+			"logo": "colonnade.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Colonnade Insurance",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.colonnade.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "234094011"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586687", "title": "Asistenční služba"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "234108311", "title": "Hlášení škod"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.colonnade.cz/"},
+					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "skody@colonnade.cz"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586687"},
+					{"id": 4, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "234094011"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "800700025"},
+					{"id": 6, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://skody.colonnade.cz/", "title": "Online formulář"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 7,
+			"yeti_id": 856,
+			"country_abbr": "CZ",
+			"name": "Česká podnikatelská pojišťovna",
+			"company_address": {
+				"city": "Praha 8-Karlín",
+				"street": "Pobřežní 665/23",
+				"zip": "18600",
+				"country_abbr": "CZ"
+			},
+			"logo": "cpp.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Česká podnikatelská pojišťovna",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.cpp.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957444555"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1220", "title": "GLOBAL ASSISTANCE, a.s."},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "266799779"},
+					{"id": 5, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "545113498"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"assist_service": "GLOBAL_ASSIST",
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.cpp.cz/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1220"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957444555"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "957444555"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://insure.cpp.cz/hlasenky-web/faces/vstup_info.xhtml", "title": "Online formulář"},
+					{"id": 6, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1220"},
+					{"id": 7, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "266799779"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.cpp.cz/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1220"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957444555"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "957444555"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://insure.cpp.cz/hlasenky-web/faces/vstup_info.xhtml", "title": "Online formulář"}
+				]
+			}
+		},
+		{
+			"id": 8,
+			"yeti_id": 11,
+			"country_abbr": "CZ",
+			"name": "Generali Česká pojišťovna",
+			"company_address": {
+				"city": "Praha 1",
+				"street": "Spálená 75/16",
+				"zip": "11304",
+				"country_abbr": "CZ"
+			},
+			"logo": "gcp.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Generali Česká pojišťovna",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.generaliceska.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241114114"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224", "title": "Asistence z ČR"},
+					{"id": 4, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "466677000"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"assist_service": "EUROP_ASSIST",
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.generaliceska.cz/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241114114"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "241114114"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.generaliceska.cz/nahlasit-skodu#auto", "title": "Online formulář"},
+					{"id": 6, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1224"},
+					{"id": 7, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "241114114"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.generaliceska.cz/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241114114"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "241114114"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://hlaseni.generaliceska.cz/", "title": "Online formulář"}
+				]
+			}
+		},
+		{
+			"id": 9,
+			"yeti_id": 297,
+			"country_abbr": "CZ",
+			"name": "ČSOB Pojišťovna",
+			"company_address": {
+				"city": "Pardubice - Zelené Předměstí",
+				"street": "Masarykovo náměstí 1458",
+				"zip": "53002",
+				"country_abbr": "CZ"
+			},
+			"logo": "csob.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "ČSOB Pojišťovna",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csobpoj.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "466100777"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222803442"},
+					{"id": 4, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "466022915"},
+					{"id": 5, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "466022223"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"assist_service": "GLOBAL_ASSIST",
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csobpoj.cz/"},
+					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "pojistneudalosti@csobpoj.cz"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222803442"},
+					{"id": 4, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "466100777"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "466100777"},
+					{"id": 6, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.csobpoj.cz/oznameni-pojistne-udalosti-pojisteni-vozidel", "title": "Online formulář"},
+					{"id": 7, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1224"},
+					{"id": 8, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "222803442"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csobpoj.cz/"},
+					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "pojistneudalosti@csobpoj.cz"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222803442"},
+					{"id": 4, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "466100777"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "466100777"},
+					{"id": 6, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.csobpoj.cz/co-budete-potrebovat-k-oznameni-skody-na-majetku-prihlaseni", "title": "Online formulář"}
+				]
+			}
+		},
+		{
+			"id": 10,
+			"yeti_id": 296,
+			"country_abbr": "CZ",
+			"name": "D.A.S. právní ochrana",
+			"company_address": {
+				"city": "Praha 4 – Michle",
+				"street": "BB Centrum, budova Beta, Vyskočilova 1481/4",
+				"zip": "14000",
+				"country_abbr": "CZ"
+			},
+			"logo": "das.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "D.A.S. právní ochrana",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.das.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "267990711"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "267990777", "title": "Linka právní pomoci"},
+					{"id": 4, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "603288251"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 11,
+			"yeti_id": 15844,
+			"country_abbr": "CZ",
+			"name": "DIRECT pojišťovna",
+			"company_address": {
+				"city": "Brno",
+				"street": "Nové sady 996/25",
+				"zip": "60200",
+				"country_abbr": "CZ"
+			},
+			"logo": "direct.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "DIRECT pojišťovna",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.direct.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221221221"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "291291291", "title": "Asistenční služba"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"assist_service": "EUROP_ASSIST",
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.direct.cz/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "291291291"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221221221"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "270270777"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.direct.cz/online/hlaseni-skody/autopojisteni", "title": "Online formulář"},
+					{"id": 6, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1224"},
+					{"id": 7, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "291291291"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.direct.cz/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "291291291"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221221221"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "270270777"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.direct.cz/online/hlaseni-skody-majetek", "title": "Online formulář"}
+				]
+			}
+		},
+		{
+			"id": 12,
+			"yeti_id": 42948,
+			"country_abbr": "CZ",
+			"name": "SV pojišťovna",
+			"company_address": {
+				"city": "Praha",
+				"street": "BB Centrum, budova BETA, Vyskočilova 1481/4",
+				"zip": "14000",
+				"country_abbr": "CZ"
+			},
+			"logo": "svp.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "SV pojišťovna",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.svpojistovna.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221585111"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.svpojistovna.cz/"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "221585111"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.svpojistovna.cz/klientsky-servis/hlaseni-skod/majetek/", "title": "Online formulář"}
+				]
+			}
+		},
+		{
+			"id": 13,
+			"yeti_id": 657,
+			"country_abbr": "CZ",
+			"name": "ERV Evropská pojišťovna",
+			"company_address": {
+				"city": "Praha 8",
+				"street": "Křižíkova 237/36a",
+				"zip": "18600",
+				"country_abbr": "CZ"
+			},
+			"logo": "erv.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "ERV Evropská pojišťovna",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.ervpojistovna.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221860860"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221860606", "title": "Asistenční služba"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 15,
+			"yeti_id": 16334,
+			"country_abbr": "CZ",
+			"name": "Hasičská vzájemná pojišťovna",
+			"company_address": {
+				"city": "Praha 2",
+				"street": "Římská 2135/45",
+				"zip": "12000",
+				"country_abbr": "CZ"
+			},
+			"logo": "hasicska_vzajemna.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Hasičská vzájemná pojišťovna",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.hasicskapojistovna.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222119119"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"assist_service": "AXA_ASSIST",
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.hasicskapojistovna.cz/"},
+					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "hvp@contin.cz"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222119119"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "539011854"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.contin.cz/hlaseni-skod", "title": "Online formulář"},
+					{"id": 6, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1224"},
+					{"id": 7, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "272101062"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.hasicskapojistovna.cz/"},
+					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "hvp@contin.cz"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222119119"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "222119125"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.hvp.cz/pojistna-udalost/", "title": "Online formulář"}
+				]
+			}
+		},
+		{
+			"id": 16,
+			"yeti_id": 97477,
+			"country_abbr": "CZ",
+			"name": "HDI Versicherung",
+			"company_address": {
+				"city": "Praha 2",
+				"street": "Jugoslávská 29",
+				"zip": "12000",
+				"country_abbr": "CZ"
+			},
+			"logo": "hdi.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "HDI Versicherung",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.hdiczech.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "220190210"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 17,
+			"yeti_id": 11256,
+			"country_abbr": "CZ",
+			"name": "AXA ASSISTANCE",
+			"company_address": {
+				"city": "Praha 4",
+				"street": "Hvězdova 1689/2a",
+				"zip": "14062",
+				"country_abbr": "CZ"
+			},
+			"logo": "axaassistance.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "AXA ASSISTANCE",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.axa-assistance.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "272099990"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "272099911", "title": "Asistenční služba"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 18,
+			"yeti_id": 915,
+			"country_abbr": "CZ",
+			"name": "Komerční pojišťovna",
+			"company_address": {
+				"city": "Praha 5-Stodůlky",
+				"street": "náměstí Junkových 2772/1",
+				"zip": "15500",
+				"country_abbr": "CZ"
+			},
+			"logo": "kp.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Komerční pojišťovna",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.kb-pojistovna.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "800106610"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222095999"},
+					{"id": 4, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "955527170"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.kb-pojistovna.cz/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222095999"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "800106610"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.kbpojistovna.cz/cs/hlaseni-skody/pojisteni-majetku-a-odpovednosti", "title": "Online formulář"}
+				]
+			}
+		},
+		{
+			"id": 19,
+			"yeti_id": 360,
+			"country_abbr": "CZ",
+			"name": "Kooperativa pojišťovna",
+			"company_address": {
+				"city": "Praha 8",
+				"street": "Pobřežní 665/21",
+				"zip": "18600",
+				"country_abbr": "CZ"
+			},
+			"logo": "koop.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Kooperativa pojišťovna",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.koop.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957105105"},
+					{"id": 3, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957115115"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"assist_service": "GLOBAL_ASSIST",
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.koop.cz/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957105105"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "957105105"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://insure.koop.cz/hlasenky-web/faces/vstup_info.xhtml", "title": "Online formulář"},
+					{"id": 5, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1220"},
+					{"id": 6, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "266799779"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.koop.cz/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957105105"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "957105105"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://insure.koop.cz/hlasenky-web/faces/vstup_info.xhtml?slug=navody-a-dokumenty&slug=reseni-skody&slug=pojisteni-majetku", "title": "Online formulář"}
+				]
+			}
+		},
+		{
+			"id": 20,
+			"yeti_id": 45691,
+			"country_abbr": "CZ",
+			"name": "Maxima pojišťovna",
+			"company_address": {
+				"city": "Praha 2",
+				"street": "Italská 1583/24",
+				"zip": "12000",
+				"country_abbr": "CZ"
+			},
+			"logo": "maxima.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Maxima pojišťovna",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.maximapojistovna.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "273190400"},
+					{"id": 3, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "273190456"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.maximapojistovna.cz/"},
+					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "273190400"}
+				]
+			}
+		},
+		{
+			"id": 21,
+			"yeti_id": 11373,
+			"country_abbr": "CZ",
+			"name": "MetLife",
+			"company_address": {
+				"city": "Praha 1",
+				"street": "Purkyňova 3",
+				"zip": "11000",
+				"country_abbr": "CZ"
+			},
+			"logo": "metlife.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "MetLife",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.metlife.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "227111000"},
+					{"id": 3, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "227111665"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 22,
+			"yeti_id": 19316,
+			"country_abbr": "CZ",
+			"name": "NN Životní pojišťovna",
+			"company_address": {
+				"city": "Praha 5",
+				"street": "Nádražní 344/25",
+				"zip": "15000",
+				"country_abbr": "CZ"
+			},
+			"logo": "nn.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "NN Životní pojišťovna",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.nn.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "800127127"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "257473737", "title": "Medicínská podpora"},
+					{"id": 4, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "257472709"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 23,
+			"yeti_id": 58,
+			"country_abbr": "CZ",
+			"name": "FLEXI",
+			"company_address": {
+				"city": "Praha 4",
+				"street": "Budějovická 1518/13a",
+				"zip": "14000",
+				"country_abbr": "CZ"
+			},
+			"logo": "flexi.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": false,
+				"title": "FLEXI",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.flexi.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957105105"},
+					{"id": 3, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957115115"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 24,
+			"yeti_id": 17323,
+			"country_abbr": "CZ",
+			"name": "Pojišťovna VZP",
+			"company_address": {
+				"city": "Praha 1",
+				"street": "Lazarská 1718/3",
+				"zip": "11000",
+				"country_abbr": "CZ"
+			},
+			"logo": "vzp.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Pojišťovna VZP",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.pvzp.cz/cs/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "233006311"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"assist_service": "GLOBAL_ASSIST",
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.pvzp.cz/cs/"},
+					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "oznameni.udalosti@pvzp.cz"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "233006311"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "226294294"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://online.pvzp.cz/clfe/claim/motor/#/registration", "title": "Online formulář"},
+					{"id": 6, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "prefix": "+420", "value": "226294294"},
+					{"id": 7, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "226294294"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.pvzp.cz/cs/"},
+					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "oznameni.udalosti@pvzp.cz"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "233006311"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "226294294"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://pu.pvzp.cz/majob-formular", "title": "Online formulář"}
+				]
+			}
+		},
+		{
+			"id": 25,
+			"yeti_id": 231,
+			"country_abbr": "CZ",
+			"name": "UNIQA pojišťovna",
+			"company_address": {
+				"city": "Praha 6",
+				"street": "Evropská 810/136",
+				"zip": "16012",
+				"country_abbr": "CZ"
+			},
+			"logo": "uniqa2.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "UNIQA pojišťovna",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.uniqa.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "488125125"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "488125125"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"assist_service": "AXA_ASSIST",
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.uniqa.cz/"},
+					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "hlasenipu@uniqa.cz"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "488125125"},
+					{"id": 4, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "488125125"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "488125125"},
+					{"id": 6, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://skody.uniqa.cz/vozidla/", "title": "Online formulář"},
+					{"id": 7, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1224"},
+					{"id": 8, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "272101020"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.uniqa.cz/"},
+					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "hlasenipu@uniqa.cz"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "488125125"},
+					{"id": 4, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "488125125"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "488125125"},
+					{"id": 6, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://skody.uniqa.cz/majetek-odpovednost/", "title": "Online formulář"}
+				]
+			}
+		},
+		{
+			"id": 28,
+			"yeti_id": 143068,
+			"country_abbr": "SK",
+			"name": "Agra poistovňa",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Záhradnícka 21",
+				"zip": "81107",
+				"country_abbr": "SK"
+			},
+			"logo": "agra.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Agra poistovňa",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.agrapoistovna.sk/site_sk/index.cfm"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "255643450"},
+					{"id": 3, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "255643450"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 29,
+			"yeti_id": 14286,
+			"country_abbr": "SK",
+			"name": "Allianz - Slovenská poisťovňa",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Dostojevského rad 4",
+				"zip": "81574",
+				"country_abbr": "SK"
+			},
+			"logo": "allianz_sk.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Allianz - Slovenská poisťovňa",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.allianzsp.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "250122122"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "252933112"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "250122222", "title": "Hlášení škod"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.allianzsp.sk/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "252933112"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800122222"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "250122222"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianzsp.sk/sk_SK/sukromne-osoby/ine-stranky/hlasenie-a-sledovanie-skod.html", "title": "Online formulář"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.allianzsp.sk/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "252933112"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800122222"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "250122222"}
+				]
+			}
+		},
+		{
+			"id": 30,
+			"yeti_id": 815255,
+			"country_abbr": "SK",
+			"name": "Atradius Credit Insurance",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Rajská 7",
+				"zip": "81108",
+				"country_abbr": "SK"
+			},
+			"logo": "atradius.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Atradius Credit Insurance",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://atradius.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "232336311"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 31,
+			"yeti_id": 144167,
+			"country_abbr": "SK",
+			"name": "UNIQA pojišťovna (predtým AXA pojišťovna)",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Krasovského 15",
+				"zip": "85101",
+				"country_abbr": "SK"
+			},
+			"logo": "uniqa2.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": false,
+				"title": "UNIQA pojišťovna",
+				"description": "predtým AXA pojišťovna",
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.uniqa.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "229292929"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": false,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.uniqa.sk/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "229292929"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "229292929"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://skody.axa.sk/hlasenie/", "title": "Online formulář"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 32,
+			"yeti_id": 58426,
+			"country_abbr": "SK",
+			"name": "UNIQA pojišťovna (predtým AXA životní pojišťovna)",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Krasovského 15",
+				"zip": "85101",
+				"country_abbr": "SK"
+			},
+			"logo": "uniqa2.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": false,
+				"title": "UNIQA pojišťovna",
+				"description": "predtým AXA životní pojišťovna",
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.uniqa.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "229292929"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 33,
+			"yeti_id": 345833,
+			"country_abbr": "SK",
+			"name": "Basler Sachversicherungs",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Námestie SNP 15",
+				"zip": "81103",
+				"country_abbr": "SK"
+			},
+			"logo": "basler.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": false,
+				"title": "Basler Sachversicherungs",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.baslerpoistovna.sk/produkty.html"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800101616"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 34,
+			"yeti_id": 270425,
+			"country_abbr": "SK",
+			"name": "Basler Lebensversicherungs",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Námestie SNP 15",
+				"zip": "81103",
+				"country_abbr": "SK"
+			},
+			"logo": "basler.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": false,
+				"title": "Basler Lebensversicherungs",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.baslerpoistovna.sk/produkty.html"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800100555"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 35,
+			"yeti_id": 130008,
+			"country_abbr": "SK",
+			"name": "Coface",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Šoltésovej 14",
+				"zip": "81108",
+				"country_abbr": "SK"
+			},
+			"logo": "coface.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Coface",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "www.coface.sk"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "267201616"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 36,
+			"yeti_id": 676109,
+			"country_abbr": "SK",
+			"name": "Colonnade Insurance",
+			"company_address": {
+				"city": "Košice",
+				"street": "Moldavská cesta 8 B",
+				"zip": "04280",
+				"country_abbr": "SK"
+			},
+			"logo": "colonnade.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Colonnade Insurance",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://colonnade.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "556826222"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111333", "title": "Úrazové poistenie"},
+					{"id": 4, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+421", "value": "556826251"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://colonnade.sk/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111333"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "556826222"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.colonnade.sk/hlasenie-skod", "title": "Online formulář"}
+				]
+			}
+		},
+		{
+			"id": 37,
+			"yeti_id": 28001,
+			"country_abbr": "SK",
+			"name": "ČSOB Poisťovňa",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Žižkova 11",
+				"zip": "81102",
+				"country_abbr": "SK"
+			},
+			"logo": "csob_sk.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "ČSOB Poisťovňa",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csob.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111303"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "244450050"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csob.sk/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "244450050"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111303"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850311312"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.csob.sk/online-nahlasenie-poistnej-udalosti", "title": "Online formulář"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csob.sk/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "244450050"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111303"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850311312"}
+				]
+			}
+		},
+		{
+			"id": 38,
+			"yeti_id": 27753,
+			"country_abbr": "SK",
+			"name": "D.A.S. poistenie právnej ochrany",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Prievozská 4C",
+				"zip": "82109",
+				"country_abbr": "SK"
+			},
+			"logo": "das_sk.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": false,
+				"title": "D.A.S. poistenie právnej ochrany",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.das.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "250122222"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "249101049"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "249101020", "title": "Od 16:00 do 8:00 a mimo pracovných dní"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 39,
+			"yeti_id": 336921,
+			"country_abbr": "SK",
+			"name": "Euler Hermes",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Bajkalská 19B",
+				"zip": "82101",
+				"country_abbr": "SK"
+			},
+			"logo": "eulerhermes.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Euler Hermes",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "www.eulerhermes.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220861800"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 40,
+			"yeti_id": 27991,
+			"country_abbr": "SK",
+			"name": "Generali Poisťovňa",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Lamačská cesta 3/A",
+				"zip": "84104",
+				"country_abbr": "SK"
+			},
+			"logo": "generali.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Generali Poisťovňa",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.generali.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "238111117"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.generali.sk/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "238111117"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "238111117"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.generali.sk/poistna-udalost/hlasenie-poistnych-udalosti/", "title": "Online formulář"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.generali.sk/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "238111117"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "238111117"}
+				]
+			}
+		},
+		{
+			"id": 41,
+			"yeti_id": 364973,
+			"country_abbr": "SK",
+			"name": "Generali Poisťovňa, odštepný závod Genertel",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Lamačská cesta 3/A",
+				"zip": "84104",
+				"country_abbr": "SK"
+			},
+			"logo": "genertel.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Generali Poisťovňa",
+				"description": "odštepný závod Genertel",
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.genertel.sk"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850555555"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "232784284"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.genertel.sk"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "232784284"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850555555"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850555555"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.generali.sk/hlaseniepu/faces/pages/hlasenie_pu.xhtml?poistenie=pzpv&genertel=true", "title": "Online formulář"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 42,
+			"yeti_id": 51951,
+			"country_abbr": "SK",
+			"name": "Groupama poisťovňa",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Miletičova 21",
+				"zip": "82108",
+				"country_abbr": "SK"
+			},
+			"logo": "groupama.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": false,
+				"title": "Groupama poisťovňa",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.groupama.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220854208"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220854504"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": false,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.groupama.sk/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220854504"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220854208"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "220854208"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.groupama.sk/sk/sluzby/skodova-udalost/ONLINE-hlasenie-skodovych-udalosti-.html", "title": "Online formulář"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 43,
+			"yeti_id": 174163,
+			"country_abbr": "SK",
+			"name": "HDI Slovensko",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Suché Mýto 1",
+				"zip": "81103",
+				"country_abbr": "SK"
+			},
+			"logo": "hdi.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "HDI Slovensko",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.hdi-gerling.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "257108611"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 44,
+			"yeti_id": 28023,
+			"country_abbr": "SK",
+			"name": "KOMUNÁLNA poisťovňa",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Štefánikova 17",
+				"zip": "81105",
+				"country_abbr": "SK"
+			},
+			"logo": "komunalna.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "KOMUNÁLNA poisťovňa",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.kpas.sk"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800112222"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111566", "title": "non stop dispečing škôd"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.kpas.sk"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111566"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800112222"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850111566"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://webcalc.koop.sk/kpas/hlasenia", "title": "Online formulář"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.kpas.sk"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111566"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800112222"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850111566"}
+				]
+			}
+		},
+		{
+			"id": 45,
+			"yeti_id": 108,
+			"country_abbr": "SK",
+			"name": "KOOPERATIVA poisťovňa",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Štefanovičova 4",
+				"zip": "81623",
+				"country_abbr": "SK"
+			},
+			"logo": "kooperativa.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "KOOPERATIVA poisťovňa",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.koop.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800120000"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "257299983", "title": "hlásenie škod"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111577", "title": "hlásenie škod"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.koop.sk/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "257299983"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800120000"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850111577"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://webcalc.koop.sk/koop/hlasenia", "title": "Online formulář"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.koop.sk/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "257299983"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800120000"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850111577"}
+				]
+			}
+		},
+		{
+			"id": 46,
+			"yeti_id": 23725,
+			"country_abbr": "SK",
+			"name": "MetLife",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Pribinova 10",
+				"zip": "81109",
+				"country_abbr": "SK"
+			},
+			"logo": "metlife.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "MetLife",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.metlife.sk"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800800008"},
+					{"id": 3, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "259363111"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 47,
+			"yeti_id": 60532,
+			"country_abbr": "SK",
+			"name": "NN Životná poisťovňa",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Jesenského 6143/4C",
+				"zip": "81102",
+				"country_abbr": "SK"
+			},
+			"logo": "nn.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "NN Životná poisťovňa",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.nn.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111464"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 48,
+			"yeti_id": 28030,
+			"country_abbr": "SK",
+			"name": "Union poisťovňa",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Karadžičova 10",
+				"zip": "81360",
+				"country_abbr": "SK"
+			},
+			"logo": "union.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Union poisťovňa",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.union.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850003333"},
+					{"id": 3, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220811811"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.union.sk/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111211"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850003333"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.union.sk/app-nahlasenie-skodovej-udalosti", "title": "Online formulář"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.union.sk/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111211"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850003333"}
+				]
+			}
+		},
+		{
+			"id": 49,
+			"yeti_id": 28019,
+			"country_abbr": "SK",
+			"name": "UNIQA pojišťovna",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Krasovského 15",
+				"zip": "85101",
+				"country_abbr": "SK"
+			},
+			"logo": "uniqa2.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "UNIQA pojišťovna",
+				"description": "predtým UNIQA poisťovňa",
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.uniqa.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "232600100"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "258252188", "title": "Asistencia pre motorové vozidlá"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "254411029", "title": "Asistencia pre cestovné poistenie"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.uniqa.sk/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "258252188"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "232600100"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "232600100"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://skody.uniqa.sk/vozidla/", "title": "Online formulář"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.uniqa.sk/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "258252188"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "232600100"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "232600100"}
+				]
+			}
+		},
+		{
+			"id": 50,
+			"yeti_id": 31416,
+			"country_abbr": "SK",
+			"name": "Wüstenrot poisťovňa",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Digital Park I, Einsteinova 21",
+				"zip": "85101",
+				"country_abbr": "SK"
+			},
+			"logo": "wustenrot_sk.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Wüstenrot poisťovňa",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.wuestenrot.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850606060"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.wuestenrot.sk/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "233068808"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "233068805"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.wuestenrot.sk/nahlasenie-poistnej-udalosti", "title": "Online formulář"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.wuestenrot.sk/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "233068808"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "233068805"}
+				]
+			}
+		},
+		{
+			"id": 51,
+			"yeti_id": 125611,
+			"country_abbr": "CZ",
+			"name": "Europ assistance",
+			"company_address": {
+				"city": "Praha",
+				"street": "Na Pankráci 1658/121",
+				"zip": "14000",
+				"country_abbr": "CZ"
+			},
+			"logo": "europ.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Europ assistance",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.europ-assistance.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586658"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586111", "title": "Asistenční centrála"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "608221586", "title": "Asistenční centrála - SMS"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"assist_service": "EUROP_ASSIST",
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.europ-assistance.cz/"},
+					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "pojisteni@europ-assistance.cz"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586111"},
+					{"id": 4, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586658"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "221586866"},
+					{"id": 6, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "prefix": "+420", "value": "221586658"},
+					{"id": 7, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "221586658"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 52,
+			"yeti_id": 16911,
+			"country_abbr": "CZ",
+			"name": "Slavia pojišťovna",
+			"company_address": {
+				"city": "Praha",
+				"street": "Táborská 31/940",
+				"zip": "14000",
+				"country_abbr": "CZ"
+			},
+			"logo": "slavia.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Slavia pojišťovna",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.slavia-pojistovna.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "255790111"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224", "title": "Linka pomoci řidičům"},
+					{"id": 4, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "255790212"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"assist_service": "GLOBAL_ASSIST",
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.slavia-pojistovna.cz/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "255790111"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "255790111"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.slavia-pojistovna.cz/nahlaseni-skody/", "title": "Online formulář"},
+					{"id": 6, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1220"},
+					{"id": 7, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "255790260"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.slavia-pojistovna.cz/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "255790111"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "255790111"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.slavia-pojistovna.cz/nahlaseni-skody/", "title": "Online formulář"}
+				]
+			}
+		},
+		{
+			"id": 53,
+			"yeti_id": 517545,
+			"country_abbr": "SK",
+			"name": "Credendo",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Mostová 2",
+				"zip": "81102",
+				"country_abbr": "SK"
+			},
+			"logo": "credendo.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Credendo",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.credendo.com/sk"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "232661907"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 54,
+			"yeti_id": 520968,
+			"country_abbr": "SK",
+			"name": "ERGO Poisťovňa",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Prievozská 4C",
+				"zip": "82108",
+				"country_abbr": "SK"
+			},
+			"logo": "ergo.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": false,
+				"title": "ERGO Poisťovňa",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.ergo.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850777777"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 55,
+			"yeti_id": 64189,
+			"country_abbr": "SK",
+			"name": "Európská cestovná poisťovna",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Lamačská cesta 3/A",
+				"zip": "84104",
+				"country_abbr": "SK"
+			},
+			"logo": "europska.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Európská cestovná poisťovna",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.europska.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "254417704"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "254417711"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "254417712"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 56,
+			"yeti_id": 602472,
+			"country_abbr": "SK",
+			"name": "Poštová poisťovňa",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Dvořákovo nábrežie 4",
+				"zip": "81102",
+				"country_abbr": "SK"
+			},
+			"logo": "postova.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": false,
+				"title": "Poštová poisťovňa",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.ppabk.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850003333"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 57,
+			"yeti_id": null,
+			"country_abbr": "SK",
+			"name": "AXA ASSISTANCE",
+			"company_address": {
+				"city": "Praha",
+				"street": "Hvězdova 1689/2a",
+				"zip": "14062",
+				"country_abbr": "CZ"
+			},
+			"logo": "axaassistance.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "AXA ASSISTANCE",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.axa.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220664228"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220664229"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 58,
+			"yeti_id": 448509,
+			"country_abbr": "SK",
+			"name": "MSIG",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Štúrova 11",
+				"zip": "81102",
+				"country_abbr": "SK"
+			},
+			"logo": "msig.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "MSIG",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://msig-europe.sk/sk"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "250207811"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 59,
+			"yeti_id": 822785,
+			"country_abbr": "SK",
+			"name": "Starr",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Panenská 5",
+				"zip": "81103",
+				"country_abbr": "SK"
+			},
+			"logo": "starr.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Starr",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.starrcompanies.co.uk/ourglobaloffices"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "905562147"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 60,
+			"yeti_id": 668622,
+			"country_abbr": "CZ",
+			"name": "Pillow pojišťovna",
+			"company_address": {
+				"city": "Praha 4",
+				"street": "Líbalova 2348/1",
+				"zip": "14900",
+				"country_abbr": "CZ"
+			},
+			"logo": "pillow.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Pillow pojišťovna",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.mypillow.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "734510530"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "246097285", "title": "Auto/Dům/Byt asistence"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "295562333", "title": "Auto/Dům/Byt/Úraz oznámení škod"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"assist_service": "GLOBAL_ASSIST",
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.mypillow.cz/"},
+					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "skoda@mypillow.cz"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "246097285"},
+					{"id": 4, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "734510530"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "295562333"},
+					{"id": 6, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.mypillow.cz/kontakty#page04_part2_id", "title": "Online formulář"},
+					{"id": 7, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "prefix": "+420", "value": "251032862"},
+					{"id": 8, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "251032862"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.mypillow.cz/"},
+					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "skoda@mypillow.cz"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "246097285"},
+					{"id": 4, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "734510530"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "295562333"},
+					{"id": 6, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.mypillow.cz/kontakty#page04_part2_id", "title": "Online formulář"}
+				]
+			}
+		},
+		{
+			"id": 61,
+			"yeti_id": 1361886,
+			"country_abbr": "SK",
+			"name": "Europ Assistance",
+			"company_address": {
+				"city": "Praha 4",
+				"street": "Na Pankráci 1724/129",
+				"zip": "14000",
+				"country_abbr": "CZ"
+			},
+			"logo": "europ.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Europ Assistance",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.europ-assistance.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220510858"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220510858"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.europ-assistance.sk/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220510858"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220510858"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "220510858"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.europ-assistance.sk/kontakt", "title": "Online formulář"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 62,
+			"yeti_id": 668622,
+			"country_abbr": "SK",
+			"name": "Pillow poisťovňa",
+			"company_address": {
+				"city": "Praha 4 - Chodov",
+				"street": "Líbalova 2348/1",
+				"zip": "14900",
+				"country_abbr": "CZ"
+			},
+			"logo": "pillow.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Pillow SK",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.mypillow.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "911826587"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "522902909", "title": "Auto/Dom/Byt asistencie"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.mypillow.sk/"},
+					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "skoda@mypillow.sk"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "522902909"},
+					{"id": 4, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "522902902"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "911826587"},
+					{"id": 6, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.mypillow.sk/skody-a-kontakty", "title": "Online formulář"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 63,
+			"yeti_id": 1405405,
+			"country_abbr": "CZ",
+			"name": "PREMIUM Pojišťovna",
+			"company_address": {
+				"city": "Praha 8",
+				"street": "Pobřežní 620/3",
+				"zip": "18600",
+				"country_abbr": "CZ"
+			},
+			"logo": "premium.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "PREMIUM CZ",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://premium-ic.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "725125088"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "725125088", "title": "Hlášení škod"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": true
+			}
+		},
+		{
+			"id": 64,
+			"yeti_id": 1048338,
+			"country_abbr": "SK",
+			"name": "PREMIUM Poisťovňa",
+			"company_address": {
+				"city": "Bratislava",
+				"street": "Námestie Mateja Korvína 1",
+				"zip": "81107",
+				"country_abbr": "SK"
+			},
+			"logo": "premium.png",
+			"is_name_in_logo": true,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "PREMIUM SK",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://premium-ic.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "value": "0850888988"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850888988", "title": "Hlášení škod"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": false,
+				"is_visible": true
+			},
+			"app_domov": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://premium-ic.sk/"},
+					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "poistenie@premium-ic.sk"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "value": "0850888988"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850888988"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://likvidacia.premium-ic.sk/claims-svk/portal/home", "title": "Online formulář"}
+				]
+			}
+		}
+	]
+}
