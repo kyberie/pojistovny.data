@@ -28,11 +28,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -60,11 +60,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -154,7 +154,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -196,7 +196,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -383,11 +383,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -465,7 +465,7 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": true,
@@ -503,11 +503,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -584,11 +584,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -617,11 +617,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -651,7 +651,7 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": true,
@@ -738,7 +738,7 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": true,
@@ -775,11 +775,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -809,11 +809,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -842,11 +842,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -976,11 +976,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -1055,11 +1055,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -1125,11 +1125,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -1157,11 +1157,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -1189,11 +1189,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -1221,11 +1221,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -1255,7 +1255,7 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": true,
@@ -1341,11 +1341,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -1373,11 +1373,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -1460,7 +1460,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -1500,7 +1500,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -1528,11 +1528,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -1654,11 +1654,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -1686,11 +1686,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -1868,7 +1868,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -1947,11 +1947,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -1979,11 +1979,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -2013,11 +2013,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -2045,11 +2045,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -2078,11 +2078,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -2110,11 +2110,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -2142,11 +2142,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -2239,7 +2239,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -2280,7 +2280,7 @@
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -2309,11 +2309,11 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			}
 		},
 		{
@@ -2342,7 +2342,7 @@
 			},
 			"app_automobil": {
 				"use_in_app": false,
-				"is_visible": true
+				"is_visible": false
 			},
 			"app_domov": {
 				"use_in_app": true,
