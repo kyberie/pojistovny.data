@@ -970,8 +970,7 @@
 				"description": null,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.agrapoistovna.sk/site_sk/index.cfm"},
-					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "255643450"},
-					{"id": 3, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "255643450"}
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "255643450"}
 				]
 			},
 			"app_automobil": {
