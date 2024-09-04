@@ -2354,6 +2354,43 @@
 					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://likvidacia.premium-ic.sk/claims-svk/portal/home", "title": "Online formulář"}
 				]
 			}
+		},
+		{
+			"id": 65,
+			"yeti_id": 436850,
+			"country_abbr": "CZ",
+			"name": "Fortegra Europe",
+			"company_address": {
+				"city": "Praha 4",
+				"street": "Roztylská 1860/1",
+				"zip": "14800",
+				"country_abbr": "CZ"
+			},
+			"logo": "fortegra.png",
+			"is_name_in_logo": false,
+			"app_pojistovny": {
+				"use_in_app": true,
+				"is_visible": true,
+				"title": "Fortegra Europe",
+				"description": null,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.fortegra.cz/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "256256395"}
+				]
+			},
+			"app_automobil": {
+				"use_in_app": true,
+				"is_visible": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.fortegra.cz/"},
+					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "info@fortegra.cz"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "256256395"}
+				]
+			},
+			"app_domov": {
+				"use_in_app": false,
+				"is_visible": false
+			}
 		}
 	]
 }
