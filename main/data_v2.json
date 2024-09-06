@@ -112,7 +112,8 @@
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.allianz.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000"},
 					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "241170000"},
-					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/online-hlaseni/hlaseni-skody-majetku.html#/claims-journey", "title": "Online formulář"}
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianz.cz/cs_CZ/online-hlaseni/hlaseni-skody-majetku.html#/claims-journey", "title": "Online formulář"},
+					{"id": 5, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000"}
 				]
 			}
 		},
@@ -300,7 +301,7 @@
 				"is_visible": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.generaliceska.cz/"},
-					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241114114"},
 					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241114114"},
 					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "241114114"},
 					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://hlaseni.generaliceska.cz/", "title": "Online formulář"}
@@ -717,7 +718,8 @@
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.koop.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957105105"},
 					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "957105105"},
-					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://insure.koop.cz/hlasenky-web/faces/vstup_info.xhtml?slug=navody-a-dokumenty&slug=reseni-skody&slug=pojisteni-majetku", "title": "Online formulář"}
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://insure.koop.cz/hlasenky-web/faces/vstup_info.xhtml?slug=navody-a-dokumenty&slug=reseni-skody&slug=pojisteni-majetku", "title": "Online formulář"},
+					{"id": 5, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957105105"}
 				]
 			}
 		},
