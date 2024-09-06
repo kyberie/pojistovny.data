@@ -1035,7 +1035,7 @@
 				"is_visible": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.allianzsp.sk/"},
-					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "252933112"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "250122222"},
 					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800122222"},
 					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "250122222"}
 				]
@@ -1433,7 +1433,8 @@
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.generali.sk/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "238111117"},
-					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "238111117"}
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "238111117"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "0800121122"}
 				]
 			}
 		},
@@ -1640,9 +1641,10 @@
 				"is_visible": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.koop.sk/"},
-					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "257299983"},
-					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800120000"},
-					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850111577"}
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "263532236"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "229292974"},
+					{"id": 4, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800120000"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850111577"}
 				]
 			}
 		},
@@ -1798,9 +1800,10 @@
 				"is_visible": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.uniqa.sk/"},
-					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "258252188"},
-					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "232600100"},
-					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "232600100"}
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "254411029"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220664229"},
+					{"id": 4, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "232600100"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "232600100"}
 				]
 			}
 		},
