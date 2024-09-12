@@ -236,12 +236,11 @@
 				"use_in_help": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.cpp.cz/"},
-					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1220"},
-					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957444555"},
-					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "957444555"},
-					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://insure.cpp.cz/hlasenky-web/faces/vstup_info.xhtml", "title": "Online formulář"},
-					{"id": 6, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1220"},
-					{"id": 7, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "266799779"}
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957444555"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "957444555"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://insure.cpp.cz/hlasenky-web/faces/vstup_info.xhtml", "title": "Online formulář"},
+					{"id": 5, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1220"},
+					{"id": 6, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "266799779"}
 				]
 			},
 			"app_domov": {
@@ -249,10 +248,9 @@
 				"is_visible": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.cpp.cz/"},
-					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1220"},
-					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957444555"},
-					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "957444555"},
-					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://insure.cpp.cz/hlasenky-web/faces/vstup_info.xhtml", "title": "Online formulář"}
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957444555"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "957444555"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://insure.cpp.cz/hlasenky-web/faces/vstup_info.xhtml", "title": "Online formulář"}
 				]
 			}
 		},
@@ -288,12 +286,11 @@
 				"use_in_help": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.generaliceska.cz/"},
-					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"},
-					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241114114"},
-					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "241114114"},
-					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.generaliceska.cz/nahlasit-skodu#auto", "title": "Online formulář"},
-					{"id": 6, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1224"},
-					{"id": 7, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "241114114"}
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241114114"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "241114114"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.generaliceska.cz/nahlasit-skodu#auto", "title": "Online formulář"},
+					{"id": 5, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1224"},
+					{"id": 6, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "241114114"}
 				]
 			},
 			"app_domov": {
@@ -1026,7 +1023,7 @@
 				"use_in_help": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.allianzsp.sk/"},
-					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "252933112"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "250122222"},
 					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800122222"},
 					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "250122222"},
 					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.allianzsp.sk/sk_SK/sukromne-osoby/ine-stranky/hlasenie-a-sledovanie-skod.html", "title": "Online formulář"}
@@ -1426,7 +1423,9 @@
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.generali.sk/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "238111117"},
 					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "238111117"},
-					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.generali.sk/poistna-udalost/hlasenie-poistnych-udalosti/", "title": "Online formulář"}
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.generali.sk/poistna-udalost/hlasenie-poistnych-udalosti/", "title": "Online formulář"},
+					{"id": 5, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "0800121122"},
+					{"id": 6, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+421", "value": "258572266"}
 				]
 			},
 			"app_domov": {
@@ -1584,10 +1583,12 @@
 				"use_in_help": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.kpas.sk"},
-					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111566"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "258280921"},
 					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800112222"},
 					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850111566"},
-					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://webcalc.koop.sk/kpas/hlasenia", "title": "Online formulář"}
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://webcalc.koop.sk/kpas/hlasenia", "title": "Online formulář"},
+					{"id": 6, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "18118"},
+					{"id": 7, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+421", "value": "263532236"}
 				]
 			},
 			"app_domov": {
@@ -1632,7 +1633,7 @@
 				"use_in_help": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.koop.sk/"},
-					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "257299983"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "263532236"},
 					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "800120000"},
 					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850111577"},
 					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://webcalc.koop.sk/koop/hlasenia", "title": "Online formulář"}
@@ -1791,7 +1792,7 @@
 				"use_in_help": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.uniqa.sk/"},
-					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "258252188"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "232600100"},
 					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "232600100"},
 					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "232600100"},
 					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://skody.uniqa.sk/vozidla/", "title": "Online formulář"}
@@ -1840,7 +1841,9 @@
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.wuestenrot.sk/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "233068808"},
 					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "233068805"},
-					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.wuestenrot.sk/nahlasenie-poistnej-udalosti", "title": "Online formulář"}
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.wuestenrot.sk/nahlasenie-poistnej-udalosti", "title": "Online formulář"},
+					{"id": 5, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "257889333"},
+					{"id": 6, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "257889777"}
 				]
 			},
 			"app_domov": {
@@ -1930,12 +1933,11 @@
 				"use_in_help": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.slavia-pojistovna.cz/"},
-					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"},
-					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "255790111"},
-					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "255790111"},
-					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.slavia-pojistovna.cz/nahlaseni-skody/", "title": "Online formulář"},
-					{"id": 6, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1220"},
-					{"id": 7, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "255790260"}
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "255790111"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "255790111"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.slavia-pojistovna.cz/nahlaseni-skody/", "title": "Online formulář"},
+					{"id": 5, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1220"},
+					{"id": 6, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "255790260"}
 				]
 			},
 			"app_domov": {
@@ -1943,10 +1945,9 @@
 				"is_visible": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.slavia-pojistovna.cz/"},
-					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224"},
-					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "255790111"},
-					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "255790111"},
-					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.slavia-pojistovna.cz/nahlaseni-skody/", "title": "Online formulář"}
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "255790111"},
+					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "255790111"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.slavia-pojistovna.cz/nahlaseni-skody/", "title": "Online formulář"}
 				]
 			}
 		},
