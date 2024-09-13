@@ -1766,7 +1766,9 @@
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.union.sk/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111211"},
 					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "850003333"},
-					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.union.sk/app-nahlasenie-skodovej-udalosti", "title": "Online formulář"}
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.union.sk/app-nahlasenie-skodovej-udalosti", "title": "Online formulář"},
+					{"id": 5, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "296339644"},
+					{"id": 6, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220854504"}
 				]
 			},
 			"app_domov": {
