@@ -2222,9 +2222,9 @@
 				"description": null,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.mypillow.cz/"},
-					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "734510530"},
-					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "246097285", "title": "Auto/Dům/Byt asistence"},
-					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "295562333", "title": "Auto/Dům/Byt/Úraz oznámení škod"}
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "777657827"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "251032862", "title": "Auto/Motorka"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586860", "title": "Dům/Byt"}
 				]
 			},
 			"app_automobil": {
@@ -2235,8 +2235,8 @@
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.mypillow.cz/"},
 					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "skoda@mypillow.cz"},
-					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "246097285"},
-					{"id": 4, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "734510530"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "251032862"},
+					{"id": 4, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "777657827"},
 					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "295562333"},
 					{"id": 6, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.mypillow.cz/kontakty#page04_part2_id", "title": "Online formulář"},
 					{"id": 7, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "prefix": "+420", "value": "251032862"},
@@ -2246,12 +2246,12 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
-				"use_in_help": false,
+				"use_in_help": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.mypillow.cz/"},
 					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "skoda@mypillow.cz"},
-					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "246097285"},
-					{"id": 4, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "734510530"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586860"},
+					{"id": 4, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "777657827"},
 					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "295562333"},
 					{"id": 6, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.mypillow.cz/kontakty#page04_part2_id", "title": "Online formulář"}
 				]
