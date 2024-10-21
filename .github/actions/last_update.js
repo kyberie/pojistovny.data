@@ -109,6 +109,16 @@ fs.readFile('main/data_v2.json', (err, data) => {
 
   //  console.log(pojistovna.logo);
   }
+  
+  for (index in pojistovny.banks) {
+    var bank = pojistovny.banks[index];
+	if (bank.app_domov.use_in_app) {
+      if (logosDomov[bank.logo] != 1) {
+        archiveDomov.file('main/logo/' + bank.logo, { name: bank.logo });
+        logosDomov[bank.logo] = 1;
+      }
+    }
+  }
 
   archiveAll.finalize();
   archiveAuto.finalize();
