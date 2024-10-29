@@ -2473,7 +2473,8 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csas.cz/"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csas.cz/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "800207207"}
 				]
 			}
 		},
@@ -2494,7 +2495,8 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.burinka.cz/"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.burinka.cz/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "800120120"}
 				]
 			}
 		},
@@ -2515,7 +2517,8 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csob.cz/"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csob.cz/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "495300300"}
 				]
 			}
 		},
@@ -2536,7 +2539,8 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csobhypotecni.cz/"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csobhypotecni.cz/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "800050277"}
 				]
 			}
 		},
@@ -2557,7 +2561,8 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.kb.cz/"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.kb.cz/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "800521521"}
 				]
 			}
 		},
@@ -2578,7 +2583,8 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.kb.cz/cs/modra-pyramida"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.kb.cz/cs/modra-pyramida"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "210220230"}
 				]
 			}
 		},
@@ -2599,7 +2605,8 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.mbank.cz/"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.mbank.cz/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222111999"}
 				]
 			}
 		},
@@ -2620,7 +2627,8 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.oberbank.cz/"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.oberbank.cz/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "387717153"}
 				]
 			}
 		},
@@ -2641,7 +2649,8 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.rb.cz/"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.rb.cz/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "800900900"}
 				]
 			}
 		},
@@ -2662,7 +2671,8 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.rsts.cz/"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.rsts.cz/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "412446408"}
 				]
 			}
 		},
@@ -2683,7 +2693,8 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.unicreditbank.cz/"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.unicreditbank.cz/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221210031"}
 				]
 			}
 		},
@@ -2704,7 +2715,8 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.bksbank.sk/"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.bksbank.sk/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "232323000"}
 				]
 			}
 		},
@@ -2725,7 +2737,8 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csob.sk/"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csob.sk/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "value": "0259668844"}
 				]
 			}
 		},
@@ -2746,7 +2759,8 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.mbank.sk/"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.mbank.sk/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "value": "0850606050"}
 				]
 			}
 		},
@@ -2767,7 +2781,8 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.slsp.sk/"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.slsp.sk/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "value": "0850111888"}
 				]
 			}
 		},
@@ -2788,7 +2803,8 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.tatrabanka.sk/"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.tatrabanka.sk/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "value": "0800001100"}
 				]
 			}
 		},
@@ -2809,7 +2825,8 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.unicreditbank.sk/"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.unicreditbank.sk/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "269202090"}
 				]
 			}
 		},
@@ -2830,7 +2847,8 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.vub.sk/"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.vub.sk/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "value": "0850123000"}
 				]
 			}
 		},
@@ -2851,7 +2869,8 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://365.bank/"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://365.bank/"},
+					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "value": "0850365365"}
 				]
 			}
 		}
