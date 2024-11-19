@@ -939,7 +939,8 @@
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.uniqa.cz/"},
 					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "488125125"},
-					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "488125125"}
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "488125125"},
+					{"id": 4, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "488125555"}
 				]
 			},
 			"app_automobil": {
