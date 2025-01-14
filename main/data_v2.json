@@ -227,7 +227,7 @@
 					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957444555"},
 					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1220", "title": "GLOBAL ASSISTANCE, a.s."},
 					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "266799779"},
-					{"id": 5, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "545113498"}
+					{"id": 5, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957451451"}
 				]
 			},
 			"app_automobil": {
