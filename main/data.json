@@ -123,8 +123,7 @@
 				"title": "Allianz pojišťovna",
 				"description": null,
 				"links":[
-					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Klientská linka"},
-					{"id": 2, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "224405240", "title": "Makléřská linka"}
+					{"id": 1, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000", "title": "Klientská linka"}
 				]
 			},
 			"app_automobil": {
