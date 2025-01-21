@@ -87,8 +87,7 @@
 				"description": null,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.allianz.cz/"},
-					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000"},
-					{"id": 3, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "224405240"}
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000"}
 				]
 			},
 			"app_automobil": {
