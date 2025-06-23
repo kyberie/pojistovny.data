@@ -607,7 +607,7 @@
 			"id": 17,
 			"yeti_id": 11256,
 			"country_abbr": "CZ",
-			"name": "AXA ASSISTANCE",
+			"name": "INTER PARTNER ASSISTANCE (AXA ASSISTANCE)",
 			"company_address": {
 				"city": "Praha 4",
 				"street": "Hvězdova 1689/2a",
@@ -619,8 +619,8 @@
 			"app_pojistovny": {
 				"use_in_app": true,
 				"is_visible": true,
-				"title": "AXA ASSISTANCE",
-				"description": null,
+				"title": "INTER PARTNER ASSISTANCE",
+				"description": "AXA ASSISTANCE",
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.axa-assistance.cz/"},
 					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "272099990"},
@@ -628,8 +628,18 @@
 				]
 			},
 			"app_automobil": {
-				"use_in_app": false,
-				"is_visible": false
+				"use_in_app": true,
+				"is_visible": true,
+				"assist_service": "AXA_ASSIST",
+				"use_in_help": true,
+				"links":[
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.axa-assistance.cz/"},
+					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "info@axa-assistance.cz"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "272099990"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.axa-assistance.cz/hlaseni-udalosti/", "title": "Online formulář"},
+					{"id": 5, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1224"},
+					{"id": 6, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "272099911"}
+				]
 			},
 			"app_domov": {
 				"use_in_app": false,
