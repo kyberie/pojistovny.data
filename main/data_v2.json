@@ -607,7 +607,7 @@
 			"id": 17,
 			"yeti_id": 11256,
 			"country_abbr": "CZ",
-			"name": "Inter partner assistance (AXA assistance)",
+			"name": "Inter Partner Assistance (AXA Assistance)",
 			"company_address": {
 				"city": "Praha 4",
 				"street": "Hvězdova 1689/2a",
@@ -619,8 +619,8 @@
 			"app_pojistovny": {
 				"use_in_app": true,
 				"is_visible": true,
-				"title": "Inter partner assistance",
-				"description": "AXA assistance",
+				"title": "Inter Partner Assistance",
+				"description": "AXA Assistance",
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.axa-assistance.cz/"},
 					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "272099990"},
