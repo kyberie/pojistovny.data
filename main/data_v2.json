@@ -633,11 +633,11 @@
 				"assist_service": "AXA_ASSIST",
 				"use_in_help": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.axa-assistance.cz/"},
-					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "info@axa-assistance.cz"},
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.axa-assistance.cz/pojisteni-vozidla/"},
+					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "zakaznickalinka@axa-assistance.cz"},
 					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "272099990"},
 					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.axa-assistance.cz/hlaseni-udalosti/", "title": "Online formulář"},
-					{"id": 5, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1224"},
+					{"id": 5, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "prefix": "+420", "value": "272099911"},
 					{"id": 6, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "272099911"}
 				]
 			},
