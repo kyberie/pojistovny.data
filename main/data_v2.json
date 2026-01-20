@@ -3037,28 +3037,6 @@
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "515202202"}
 				]
 			}
-		},
-		{
-			"id": 27,
-			"yeti_id": 1503817,
-			"country_abbr": "CZ",
-			"name": "Simplea pojišťovna",
-			"company_address": {
-				"city": "Praha 4 - Chodov",
-				"street": "Türkova 2319/5b",
-				"zip": "14900",
-				"country_abbr": "CZ"
-			},
-			"logo": "simplea.png",
-			"is_name_in_logo": true,
-			"app_domov": {
-				"use_in_app": true,
-				"is_visible": true,
-				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.simplea.cz/"},
-					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "800023074"}
-				]
-			}
 		}
 	]
 } 
