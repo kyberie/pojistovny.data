@@ -108,6 +108,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.allianz.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241170000"},
@@ -247,6 +248,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": false,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.cpp.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957444555"},
@@ -298,6 +300,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.generaliceska.cz/"},
 					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241114114"},
@@ -353,6 +356,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": false,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csobpoj.cz/"},
 					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "pojistneudalosti@csobpoj.cz"},
@@ -440,6 +444,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": false,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.direct.cz/"},
 					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "291291291"},
@@ -480,6 +485,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": false,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.svpojistovna.cz/"},
 					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "221585111"},
@@ -562,6 +568,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": false,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.hasicskapojistovna.cz/"},
 					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "hvp@contin.cz"},
@@ -679,6 +686,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": false,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.kb-pojistovna.cz/"},
 					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222095999"},
@@ -729,6 +737,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.koop.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "957105105"},
@@ -770,6 +779,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": false,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.maximapojistovna.cz/"},
 					{"id": 2, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "273190400"}
@@ -918,6 +928,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": false,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.pvzp.cz/cs/"},
 					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "oznameni.udalosti@pvzp.cz"},
@@ -972,6 +983,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": false,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.uniqa.cz/"},
 					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "hlasenipu@uniqa.cz"},
@@ -1055,6 +1067,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.allianzsp.sk/"},
 					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "250122222"},
@@ -1295,6 +1308,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": false,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://colonnade.sk/"},
 					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111333"},
@@ -1343,6 +1357,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": false,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csob.sk/"},
 					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "244450050"},
@@ -1457,6 +1472,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.generali.sk/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "238111117"},
@@ -1621,6 +1637,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": false,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.kpas.sk"},
 					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111566"},
@@ -1670,6 +1687,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.koop.sk/"},
 					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "263532236"},
@@ -1785,6 +1803,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": false,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.union.sk/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "850111211"},
@@ -1833,6 +1852,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.uniqa.sk/"},
 					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "254411029"},
@@ -1882,6 +1902,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": false,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.wuestenrot.sk/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "233068808"},
@@ -1977,6 +1998,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": false,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.slavia-pojistovna.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "255790111"},
@@ -2257,6 +2279,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.mypillow.cz/"},
 					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "skoda@mypillow.cz"},
@@ -2415,6 +2438,7 @@
 				"use_in_app": true,
 				"is_visible": true,
 				"use_in_help": false,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://premium-ic.sk/"},
 					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "poistenie@premium-ic.sk"},
@@ -2482,6 +2506,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csas.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "800207207"}
@@ -2504,6 +2529,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.burinka.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "800120120"}
@@ -2526,6 +2552,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csob.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "495300300"}
@@ -2548,6 +2575,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csobhypotecni.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "800050277"}
@@ -2570,6 +2598,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.kb.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "800521521"}
@@ -2592,6 +2621,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.kb.cz/cs/modra-pyramida"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "210220230"}
@@ -2614,6 +2644,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.mbank.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222111999"}
@@ -2636,6 +2667,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.oberbank.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "387717153"}
@@ -2658,6 +2690,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.rb.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "800900900"}
@@ -2680,6 +2713,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.rsts.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "412446408"}
@@ -2702,6 +2736,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.unicreditbank.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221210031"}
@@ -2724,6 +2759,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.bksbank.sk/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "232323000"}
@@ -2746,6 +2782,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csob.sk/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "value": "0259668844"}
@@ -2768,6 +2805,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.mbank.sk/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "value": "0850606050"}
@@ -2790,6 +2828,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.slsp.sk/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "value": "0850111888"}
@@ -2812,6 +2851,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.tatrabanka.sk/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "value": "0800001100"}
@@ -2834,6 +2874,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.unicreditbank.sk/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "269202090"}
@@ -2856,6 +2897,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.vub.sk/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "value": "0850123000"}
@@ -2878,6 +2920,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://365.bank/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "value": "0850365365"}
@@ -2900,6 +2943,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": false,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.moneta.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "224443636"}
@@ -2922,6 +2966,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": false,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.moneta.cz/moneta-stavebni-sporitelna"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "224443636"}
@@ -2944,6 +2989,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": false,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.fio.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "224346800"}
@@ -2966,6 +3012,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": false,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.csobstavebni.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "225225225"}
@@ -2988,6 +3035,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": false,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.partnersbanka.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "800720636"}
@@ -3010,6 +3058,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": false,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.jtbank.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "800707606"}
@@ -3032,6 +3081,7 @@
 			"app_domov": {
 				"use_in_app": true,
 				"is_visible": true,
+				"use_for_download": false,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.airbank.cz/"},
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "515202202"}
