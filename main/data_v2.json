@@ -1047,7 +1047,7 @@
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.allianzsp.sk/"},
 					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "250122122"},
 					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "252933112"},
-					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "250122222", "title": "Hlášení škod"}
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "250122122", "title": "Hlášení škod"}
 				]
 			},
 			"app_automobil": {
