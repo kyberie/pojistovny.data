@@ -496,20 +496,20 @@
 			"id": 13,
 			"yeti_id": 657,
 			"country_abbr": "CZ",
-			"name": "ERGO Cestovní Pojišťovna, a. s.",
+			"name": "ERGO Cestovní Pojišťovna, a. s. (dříve ERV Evropská pojišťovna)",
 			"company_address": {
 				"city": "Praha 8",
 				"street": "Křižíkova 237/36a",
 				"zip": "18600",
 				"country_abbr": "CZ"
 			},
-			"logo": "erv.png",
+			"logo": "ergo2.png",
 			"is_name_in_logo": true,
 			"app_pojistovny": {
 				"use_in_app": true,
 				"is_visible": true,
 				"title": "ERGO Cestovní Pojišťovna",
-				"description": null,
+				"description": "dříve ERV Evropská pojišťovna",
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.ervpojistovna.cz/"},
 					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221860860"},
