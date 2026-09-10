@@ -1,4 +1,12 @@
 {	"json_version":1,
+	"version":{
+		"IOS_UNSUPPORTED_VERSION":0,
+		"IOS_LAST_VERSION":1,
+		"IOS_LAST_SUPPORTED_VERSION":0,
+		"ANDROID_UNSUPPORTED_VERSION":0,
+		"ANDROID_LAST_VERSION":1,
+		"ANDROID_LAST_SUPPORTED_VERSION":0
+	},
 	"logos_zip_file_all": "logos_v2.zip",
 	"logos_zip_file_automobil": "logos_automobil_v2.zip",
 	"logos_zip_file_domov": "logos_domov_v2.zip",
