@@ -1,7 +1,7 @@
 {	"json_version":1,
 	"version":{
 		"IOS_UNSUPPORTED_VERSION":0,
-		"IOS_LAST_VERSION":28,
+		"IOS_LAST_VERSION":2,
 		"IOS_LAST_SUPPORTED_VERSION":2,
 		"ANDROID_UNSUPPORTED_VERSION":1,
 		"ANDROID_LAST_VERSION":3,
@@ -286,7 +286,8 @@
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.generaliceska.cz/"},
 					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241114114"},
-					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "value": "1224", "title": "Asistence z ČR"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241114114", "title": "Auto/Motorka"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586675", "title": "Ostatní"},
 					{"id": 4, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "466677000"}
 				]
 			},
@@ -300,7 +301,7 @@
 					{"id": 2, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241114114"},
 					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "241114114"},
 					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.generaliceska.cz/nahlasit-skodu#auto", "title": "Online formulář"},
-					{"id": 5, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "value": "1224"},
+					{"id": 5, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "prefix": "+420", "value": "241114114"},
 					{"id": 6, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "241114114"}
 				]
 			},
@@ -311,9 +312,9 @@
 				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.generaliceska.cz/"},
-					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241114114"},
-					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "241114114"},
-					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "241114114"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586675"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586675"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "221586675"},
 					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://hlaseni.generaliceska.cz/", "title": "Online formulář"}
 				]
 			}
@@ -2511,6 +2512,8 @@
 			"app_pojistovny": {
 				"use_in_app": true,
 				"is_visible": true,
+				"title": "LEXIA Legal Protection",
+				"description": null,
 				"links": [
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://lexia.cz/"},
 					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "value": "465465465", "prefix": "+420"}
