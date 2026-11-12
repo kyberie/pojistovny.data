@@ -1922,25 +1922,25 @@
 			"id": 51,
 			"yeti_id": 125611,
 			"country_abbr": "CZ",
-			"name": "Europ assistance",
+			"name": "Redion (dříve Europ assistance)",
 			"company_address": {
 				"city": "Praha",
-				"street": "Na Pankráci 1658/121",
+				"street": "Na Pankráci 1724/129",
 				"zip": "14000",
 				"country_abbr": "CZ"
 			},
-			"logo": "europ.png",
+			"logo": "redion.png",
 			"is_name_in_logo": true,
 			"app_pojistovny": {
 				"use_in_app": true,
 				"is_visible": true,
-				"title": "Europ assistance",
-				"description": null,
+				"title": "Redion",
+				"description": "dříve Europ assistance",
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.europ-assistance.cz/"},
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.redion.cz/"},
 					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586658"},
 					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586111", "title": "Asistenční centrála"},
-					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "608221586", "title": "Asistenční centrála - SMS"}
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586866", "title": "Asistenční linka - odtah"}
 				]
 			},
 			"app_automobil": {
@@ -1949,13 +1949,13 @@
 				"assist_service": "EUROP_ASSIST",
 				"use_in_help": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "http://www.europ-assistance.cz/"},
-					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "pojisteni@europ-assistance.cz"},
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.redion.cz/"},
+					{"id": 2, "type": "MAIN", "subtype": "EMAIL", "value": "pojisteni.cz@redion.com"},
 					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586111"},
 					{"id": 4, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+420", "value": "221586658"},
 					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "221586866"},
-					{"id": 6, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "prefix": "+420", "value": "221586658"},
-					{"id": 7, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "221586658"}
+					{"id": 6, "type": "ASSIST_LINE_HOMELAND", "subtype": "PHONE", "prefix": "+420", "value": "221586111"},
+					{"id": 7, "type": "ASSIST_LINE_ABROAD", "subtype": "PHONE", "prefix": "+420", "value": "221586111"}
 				]
 			},
 			"app_domov": {
@@ -2302,24 +2302,24 @@
 			"id": 61,
 			"yeti_id": 1361886,
 			"country_abbr": "SK",
-			"name": "Europ Assistance",
+			"name": "Redion (predtým Europ Assistance)",
 			"company_address": {
 				"city": "Praha 4",
 				"street": "Na Pankráci 1724/129",
 				"zip": "14000",
 				"country_abbr": "CZ"
 			},
-			"logo": "europ.png",
+			"logo": "redion.png",
 			"is_name_in_logo": true,
 			"app_pojistovny": {
 				"use_in_app": true,
 				"is_visible": true,
-				"title": "Europ Assistance",
-				"description": null,
+				"title": "Redion",
+				"description": "predtým Europ Assistance",
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.europ-assistance.sk/"},
-					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220510858"},
-					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220510858"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.redion.sk/"},
+					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+421", "value": "221586658"},
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "221586866"}
 				]
 			},
 			"app_automobil": {
@@ -2327,11 +2327,11 @@
 				"is_visible": true,
 				"use_in_help": true,
 				"links":[
-					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.europ-assistance.sk/"},
-					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220510858"},
-					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "220510858"},
-					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "220510858"},
-					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.europ-assistance.sk/kontakt", "title": "Online formulář"}
+					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.redion.sk/"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+421", "value": "221586866"},
+					{"id": 3, "type": "INFO_LINE", "subtype": "PHONE", "prefix": "+421", "value": "221586658"},
+					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+421", "value": "221586658"},
+					{"id": 5, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.redion.sk/kontakt", "title": "Online formulář"}
 				]
 			},
 			"app_domov": {
