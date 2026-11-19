@@ -682,8 +682,10 @@
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.kb-pojistovna.cz/"},
 					{"id": 2, "type": "CLIENT_LINE", "subtype": "PHONE", "prefix": "+420", "value": "800106610"},
-					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222095999"},
-					{"id": 4, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "955527170"}
+					{"id": 3, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "272101011", "title": "Životní a cestovní pojištění"},
+					{"id": 4, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "292292260", "title": "Pojištění majetku"},
+					{"id": 5, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "272101030", "title": "Pojištění k bankovním produktům"},
+					{"id": 6, "type": "BROKER_LINE", "subtype": "PHONE", "prefix": "+420", "value": "955527170"}
 				]
 			},
 			"app_automobil": {
@@ -697,7 +699,7 @@
 				"use_for_download": true,
 				"links":[
 					{"id": 1, "type": "MAIN", "subtype": "WEB", "value": "https://www.kb-pojistovna.cz/"},
-					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "222095999"},
+					{"id": 2, "type": "ASSIST_LINE", "subtype": "PHONE", "prefix": "+420", "value": "292292260"},
 					{"id": 3, "type": "DAMAGE_REPORT", "subtype": "PHONE", "prefix": "+420", "value": "800106610"},
 					{"id": 4, "type": "DAMAGE_REPORT", "subtype": "WEB", "value": "https://www.kbpojistovna.cz/cs/hlaseni-skody/pojisteni-majetku-a-odpovednosti", "title": "Online formulář"}
 				]
